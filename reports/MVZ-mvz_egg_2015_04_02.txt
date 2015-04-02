@@ -1,0 +1,219 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 723
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 10
+	Country: France ; Times: 6
+	Country: Germany ; Times: 6
+	Country: India ; Times: 2
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 69
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 3
+	Date: 2015-03-02 ; Times: 2
+	Date: 2015-03-04 ; Times: 6
+	Date: 2015-03-05 ; Times: 9
+	Date: 2015-03-06 ; Times: 4
+	Date: 2015-03-07 ; Times: 4
+	Date: 2015-03-08 ; Times: 4
+	Date: 2015-03-09 ; Times: 4
+	Date: 2015-03-10 ; Times: 4
+	Date: 2015-03-11 ; Times: 7
+	Date: 2015-03-12 ; Times: 5
+	Date: 2015-03-15 ; Times: 3
+	Date: 2015-03-16 ; Times: 13
+	Date: 2015-03-18 ; Times: 6
+	Date: 2015-03-19 ; Times: 7
+	Date: 2015-03-20 ; Times: 3
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-29 ; Times: 1
+	Date: 2015-03-30 ; Times: 13
+	Date: 2015-03-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"greece" AND (NOT Mammalia NOT Bufo)" ; Times: 1
+	Query: "Synthliboramphus" ; Times: 3
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "melanerpes formicivorus (endoparasite OR ectoparasite OR endoparasites OR ectoparasites OR parasite OR parasites)" ; Times: 1
+	Query: "class:aves institutioncode:mvz" ; Times: 1
+	Query: "florence arizona" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "type:specimen stateprovince:"Nunavut" country:"Canada"" ; Times: 2
+	Query: "stateprovince:"Rhode Island"" ; Times: 1
+	Query: ""Leucosticte tephrocotis umbrina" institutioncode:MVZ" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "Sterna repressa type:specimen" ; Times: 1
+	Query: "Arborophila atrogularis" ; Times: 1
+	Query: "country:"greece"" ; Times: 1
+	Query: "stateprovince:"california" country:"mexico" year >= 1921 year <= 1922" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "wood duck" ; Times: 1
+	Query: "stateprovince:"california sur" country:"mexico" year >= 1921 year <= 1922" ; Times: 1
+	Query: "(Menage OR Worcester OR Bourns) year <= 1900" ; Times: 2
+	Query: "Phylloscopus trochilus" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "specificepithet:yncas genus:cyanocorax" ; Times: 1
+	Query: "Falco mexicanus" ; Times: 1
+	Query: "pipilo maculatus JK" ; Times: 1
+	Query: "Jynx" ; Times: 1
+	Query: "sooty grouse" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 2
+	Query: "Vireo atricapillus" ; Times: 1
+	Query: "cyanocorax yncas" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Leucosticte tephrocotis tephrocotis institutioncode:MVZ" ; Times: 1
+	Query: "isle royale" ; Times: 1
+	Query: "scrippsi" ; Times: 3
+	Query: "advanced search" ; Times: 1
+	Query: "Vireo cassinii" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 2
+	Query: "muscicapa striata" ; Times: 1
+	Query: "corvus corone" ; Times: 1
+	Query: "Greece" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus year >= 1996 year <= 2015" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "specificepithet:nipalensis genus:Pitta" ; Times: 1
+	Query: "county:"greene" stateprovince:"pennsylvania"" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "laysan albatross" ; Times: 4
+	Query: "roseate spoonbill" ; Times: 6
+	Query: "plectrophenax nivalis" ; Times: 3
+	Query: "Chordeiles minor chapmani" ; Times: 1
+	Query: "Catharus year >= 1933 year <= 1933" ; Times: 1
+	Query: "california dawson type:specimen year >= 1888 year <= 1940" ; Times: 2
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "mynah" ; Times: 1
+	Query: "Chordeiles minor chapmani year <= 1887" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "melanerpes formicivorus type:specimen (endoparasite OR ectoparasite OR endoparasites OR ectoparasites OR parasite OR parasites)" ; Times: 1
+	Query: "pipilo maculatus MVZ Los Angeles" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(43.91119007003743,-72.2900390625))<17706.79171425276" ; Times: 1
+	Query: "geothlypis poliocephala stateprovince:"texas"" ; Times: 1
+	Query: "rallus longirostris" ; Times: 3
+	Query: "county:"Montgomery" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "aix sponsa media:1" ; Times: 1
+	Query: "MVZ 14384" ; Times: 1
+	Query: "tricholaema" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 1
+	Query: "Black swift mappable:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "country:"Trinidad" class:Aves" ; Times: 4
+	Query: "cypseloides niger" ; Times: 2
+	Query: "Lanius bucephalus" ; Times: 1
+	Query: "Oreortyx pictus" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"San Luis Obispo" stateprovince:"California"" ; Times: 1
+	Query: "Leucosticte institutioncode:MVZ" ; Times: 1
+	Query: ""Leucosticte tephrocotis dawsoni" institutioncode:MVZ" ; Times: 1
+	Query: ""grus grus"" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus year >= 1889 year <= 1910" ; Times: 1
+	Query: "catalognumber:7832 institutioncode:MVZ" ; Times: 2
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 298 download events in this period)
+Total number of records downloaded: 724 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 657
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 19
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 3
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 3
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-24 ; Times: 7
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 5
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "passerina amoena" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(43.01814269299076,-76.13525390625))<6530" ; Times: 1
+	Query: "Stachyris ruficeps" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "stateprovince:"california sur" country:"mexico" year >= 1921 year <= 1922" ; Times: 2
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Molothrus ater obscurus county:"San Diego"" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego" mappable:1" ; Times: 2
+	Query: "laysan albatross" ; Times: 2
+	Query: "class:Aves (Cuyamaca)" ; Times: 2
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: ""coccyzus americanus occidentalis" stateprovince:"california"" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San diego" stateprovince:"California" mappable:1" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Eremophila alpestris insularis type:specimen" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1275
+Total number of records retrieved from searches: 7085
+Number of download events that retrieved data from the resource: 109
+Total number of records downloaded: 4118
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1468
+Total number of records retrieved from searches: 8403
+Number of download events that retrieved data from the resource: 417
+Total number of records downloaded: 63162
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
