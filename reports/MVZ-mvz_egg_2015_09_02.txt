@@ -1,0 +1,369 @@
+Report for Institution Code MVZ, Resource Bird eggs/nests
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 335
+Number of records retrieved in searches: 1978
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 335
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 9
+	Date: 2015-08-02 ; Times: 8
+	Date: 2015-08-03 ; Times: 22
+	Date: 2015-08-04 ; Times: 15
+	Date: 2015-08-05 ; Times: 26
+	Date: 2015-08-06 ; Times: 14
+	Date: 2015-08-07 ; Times: 23
+	Date: 2015-08-08 ; Times: 7
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-11 ; Times: 2
+	Date: 2015-08-12 ; Times: 20
+	Date: 2015-08-13 ; Times: 10
+	Date: 2015-08-14 ; Times: 9
+	Date: 2015-08-15 ; Times: 5
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 11
+	Date: 2015-08-18 ; Times: 2
+	Date: 2015-08-19 ; Times: 14
+	Date: 2015-08-20 ; Times: 5
+	Date: 2015-08-21 ; Times: 15
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 19
+	Date: 2015-08-26 ; Times: 10
+	Date: 2015-08-27 ; Times: 9
+	Date: 2015-08-28 ; Times: 14
+	Date: 2015-08-29 ; Times: 29
+	Date: 2015-08-30 ; Times: 11
+	Date: 2015-08-31 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Podilymbus podiceps type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Phytotoma rutila type:specimen" ; Times: 2
+	Query: "county:"Milwaukee" stateprovince:"wisconsin"" ; Times: 1
+	Query: "gadwall" ; Times: 1
+	Query: "polioptila californica" ; Times: 1
+	Query: "type:specimen class:aves recordedby:marshall" ; Times: 1
+	Query: "Padda oryzivora" ; Times: 1
+	Query: "stateprovince:"oregon" year >= 1895 year <= 1898" ; Times: 1
+	Query: "type:specimen country:"Germany" mappable:1" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "Sturnella neglecta year >= 1895 year <= 1895" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "Contopus cinereus type=specimen" ; Times: 1
+	Query: "Coccyzus minor type:specimen (egg)" ; Times: 1
+	Query: "5073" ; Times: 2
+	Query: "genus:Agelaius AND (NOT phoeniceus )" ; Times: 6
+	Query: "Horned Lark" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1920 year <= 1930" ; Times: 1
+	Query: "cathartes aura" ; Times: 1
+	Query: "graves" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 26
+	Query: "distance(location,geopoint(19.186677697957833,-154.599609375))<100000" ; Times: 1
+	Query: ""mountain plover"" ; Times: 2
+	Query: "4380" ; Times: 1
+	Query: "copsychus malabaricus malabaricus" ; Times: 1
+	Query: "Picoides nuttallii" ; Times: 10
+	Query: "type:specimen class:aves recordedby:Charles G. Sibley" ; Times: 1
+	Query: "arquata" ; Times: 1
+	Query: "country:"India" class:aves year >= 1928 year <= 1930" ; Times: 2
+	Query: "vireo pusillus" ; Times: 4
+	Query: "Nycticorax nycticorax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "caprimulgus carolinensis" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "Branta canadensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "falco sparverius year >= 1900 year <= 1910" ; Times: 2
+	Query: "Anas platyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Picoides nuttallii type:specimen stateprovince:"California"" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 1
+	Query: "stateprovince:"california" class:aves year >= 1898 year <= 1898" ; Times: 1
+	Query: "El Paso County Texas Aves" ; Times: 1
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "phylloscopus schwarzi" ; Times: 1
+	Query: "aleutian islands" ; Times: 2
+	Query: ""Anser albifrons" stateprovince:"Alaska"" ; Times: 3
+	Query: "Cypseloides niger" ; Times: 6
+	Query: "Empidonax traillii stateprovince:"California"" ; Times: 1
+	Query: "class:Aves catalognumber:4725" ; Times: 1
+	Query: "watson year >= 1890 year <= 1920" ; Times: 1
+	Query: "Butorides virescens type:specimen stateprovince:"California"" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "Oceanodroma leucorhoa" ; Times: 1
+	Query: "sporophila" ; Times: 1
+	Query: "type:specimen class:aves (feather)" ; Times: 1
+	Query: "phoebastria albatrus type:specimen" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 3
+	Query: "santa marin" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "aerodramus" ; Times: 1
+	Query: "puebla" ; Times: 1
+	Query: "London" ; Times: 1
+	Query: "egg sets" ; Times: 1
+	Query: "roseate spoonbill" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+	Query: "turdus unicolor" ; Times: 4
+	Query: "Haemorhous mexicanus 12" ; Times: 1
+	Query: "Oxyura jamaicensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Callipepla californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "ploceus manyar" ; Times: 3
+	Query: "Anas cyanoptera type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Aix sponsa type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Phalacrocorax auritus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "oenanthe isabellina" ; Times: 2
+	Query: "Borabhum" ; Times: 1
+	Query: "glacier point" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 3
+	Query: "zenaida asiatica" ; Times: 2
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "Rynchops" ; Times: 2
+	Query: "oenanthe melanoleuca" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "13148" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 1
+	Query: "haliaeetus leucogaster" ; Times: 1
+	Query: "7847 institutioncode:mvz" ; Times: 1
+	Query: "gravis type:specimen genus:Pachyramphus" ; Times: 1
+	Query: "Phytotoma rutila" ; Times: 1
+	Query: "oriole (icterus)" ; Times: 1
+	Query: "carpodacus erythrinus" ; Times: 4
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Finland" ; Times: 1
+	Query: "Synallaxis albescens" ; Times: 1
+	Query: "setophaga petechia type:specimen" ; Times: 1
+	Query: "spotted owl" ; Times: 3
+	Query: "pseudonigrita" ; Times: 2
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "Rynchops niger" ; Times: 2
+	Query: "Struthio camelus" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "falco femoralis country:"Mexico"" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "turdoides caudatus" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 6
+	Query: "institutioncode:mvz media:1" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 2
+	Query: "noddy" ; Times: 1
+	Query: "Egretta thula type:specimen stateprovince:"California"" ; Times: 1
+	Query: "bonasa umbellus" ; Times: 2
+	Query: "Rhea americana" ; Times: 1
+	Query: "Colaptes auratus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "class:aves recordedby:watson" ; Times: 1
+	Query: "specificepithet:pelagicus resplendens genus:phalacrocorax" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 5
+	Query: "aleutian islands 2014" ; Times: 1
+	Query: "Aechmophorus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Willow Flycatcher" ; Times: 1
+	Query: "Sturnella neglecta year <= 1895" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 8
+	Query: "country:"India" year >= 1928 year <= 1930" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico" specificepithet:cinereum genus:Toxostoma" ; Times: 4
+	Query: "horned owl" ; Times: 1
+	Query: "ploceus" ; Times: 1
+	Query: "country:"angola"" ; Times: 1
+	Query: "grackle" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "pachyramphus" ; Times: 1
+	Query: "Lanius egg" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "3601" ; Times: 1
+	Query: "bonasa umbellus type:specimen" ; Times: 3
+	Query: "beck year >= 1900 year <= 1900" ; Times: 1
+	Query: "gerygone" ; Times: 1
+	Query: "Colaptes campestris" ; Times: 1
+	Query: "stateprovince:"oregon" class:Aves year >= 1895 year <= 1898" ; Times: 1
+	Query: "leucomelas" ; Times: 1
+	Query: "cornutus" ; Times: 1
+	Query: "specificepithet:africanus genus:Gyps (egg)" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "beck year >= 1901 year <= 1901" ; Times: 1
+	Query: "distance(location,geopoint(23.88583769986199,-164.443359375))<260197" ; Times: 1
+	Query: "short-eared owl" ; Times: 2
+	Query: "Phytotoma" ; Times: 1
+	Query: "Corvus corax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "oenanthe hispanica" ; Times: 1
+	Query: "year >= 1960 year <= 2015 mappable:1 distance(location,geopoint(71.85622888185527,-153.45703125))<271616" ; Times: 1
+	Query: "specificepithet:humeralis genus:Agelaius" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "6294" ; Times: 1
+	Query: "specificepithet:vocifer genus:Haliaeetus (egg)" ; Times: 1
+	Query: "sericocaudatus" ; Times: 1
+	Query: "6213" ; Times: 1
+	Query: "condor" ; Times: 1
+	Query: "Cracidae" ; Times: 2
+	Query: "Phylloscopus schwarzi country:"India"" ; Times: 2
+	Query: "newfoundland" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "pterocles orientalis" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1910 year <= 1920" ; Times: 1
+	Query: "Riparia riparia country:"India"" ; Times: 2
+	Query: "Toxostoma cinereum mearnsi" ; Times: 1
+	Query: "Starnoenas" ; Times: 2
+	Query: "manorina melanotis" ; Times: 2
+	Query: "phasianus colchicus" ; Times: 1
+	Query: "Pelecanus occidentalis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "specificepithet:auritus genus:Phalacrocorax year >= 1918" ; Times: 1
+	Query: "country:"ecuador" class:aves year <= 1900" ; Times: 1
+	Query: "specificepithet:scolopaceus genus:Limnodromus" ; Times: 1
+	Query: "western screech-owl" ; Times: 2
+	Query: "Copsychus malabaricus" ; Times: 5
+	Query: "year <= 1850" ; Times: 1
+	Query: "Amazona eggs" ; Times: 4
+	Query: "Sterna forsteri stateprovince:"California"" ; Times: 1
+	Query: "coturnix coturnix" ; Times: 1
+	Query: "stateprovince:"Montana" class:aves" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "pipridae" ; Times: 1
+	Query: "falco sparverius year >= 1880 year <= 1900" ; Times: 2
+	Query: "Cettia diphone" ; Times: 1
+	Query: "Cypseloides" ; Times: 3
+	Query: "county:"Mercer" stateprovince:"New Jersey"" ; Times: 1
+	Query: "mvz bird california" ; Times: 1
+	Query: "Casuarius casuarius" ; Times: 1
+	Query: "Coccyzus minor type:specimen" ; Times: 2
+	Query: "Somateria mollissima type:specimen genus:Somateria year >= 1800 year <= 2015" ; Times: 2
+	Query: "Contopus sordidulus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "pipridae media:1" ; Times: 1
+	Query: "Yellow Warbler" ; Times: 4
+	Query: "falco sparverius type:specimen (bird specimen) year >= 1880 year <= 1900" ; Times: 1
+	Query: "6547" ; Times: 1
+	Query: "r. h. beck" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "gymnogyps type:specimen" ; Times: 1
+	Query: "specificepithet:cinereum genus:Toxostoma institutioncode:MVZ" ; Times: 1
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Ardea herodias type:specimen stateprovince:"California"" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1880 year <= 1900" ; Times: 1
+	Query: "type:specimen class:Aves institutioncode:mvz" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "recordedby:Abbott" ; Times: 1
+	Query: "Pitman" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 1
+	Query: "country:"Netherlands"" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:tristis (egg)" ; Times: 1
+	Query: "Contopus virens type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1138 download events in this period)
+Total number of records downloaded: 2834 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1872
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 65
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 2
+	Date: 2015-08-04 ; Times: 6
+	Date: 2015-08-05 ; Times: 13
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-07 ; Times: 8
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 14
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 5
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Podilymbus podiceps type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Picoides nuttallii type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Oxyura jamaicensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Toxostoma cinereum mearnsi" ; Times: 1
+	Query: "Callipepla californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Corvus corax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico" specificepithet:cinereum genus:Toxostoma" ; Times: 2
+	Query: "amazona" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "Pelecanus occidentalis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "Colaptes auratus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Anas platyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Nycticorax nycticorax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Anas cyanoptera type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "distance(location,geopoint(32.379961464357315,-119.94873046875))<100000" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Coccyzus minor type:specimen" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Contopus sordidulus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "Butorides virescens type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Branta canadensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Aix sponsa type:specimen stateprovince:"California"" ; Times: 1
+	Query: "gymnogyps type:specimen" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "Ardea herodias type:specimen stateprovince:"California"" ; Times: 1
+	Query: "paradisaeidae" ; Times: 1
+	Query: "Phalacrocorax auritus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:tristis (egg)" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Apteryx australis" ; Times: 1
+	Query: "Egretta thula type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "sora" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 335
+Total number of records retrieved from searches: 1978
+Number of download events that retrieved data from the resource: 65
+Total number of records downloaded: 2834
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 335
+Total number of records retrieved from searches: 1978
+Number of download events that retrieved data from the resource: 65
+Total number of records downloaded: 2834
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
