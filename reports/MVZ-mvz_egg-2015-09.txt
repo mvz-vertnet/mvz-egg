@@ -1,0 +1,352 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 288
+Number of records retrieved in searches: 1690
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Thailand ; Times: 4
+	Country: Hong Kong ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: United States ; Times: 214
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 12
+	Country: Bulgaria ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: South Africa ; Times: 3
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 6
+	Date: 2015-09-22 ; Times: 16
+	Date: 2015-09-10 ; Times: 8
+	Date: 2015-09-11 ; Times: 6
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-14 ; Times: 15
+	Date: 2015-09-15 ; Times: 9
+	Date: 2015-09-16 ; Times: 6
+	Date: 2015-09-17 ; Times: 6
+	Date: 2015-09-18 ; Times: 7
+	Date: 2015-09-19 ; Times: 10
+	Date: 2015-09-30 ; Times: 55
+	Date: 2015-09-02 ; Times: 5
+	Date: 2015-09-29 ; Times: 12
+	Date: 2015-09-07 ; Times: 13
+	Date: 2015-09-06 ; Times: 5
+	Date: 2015-09-05 ; Times: 12
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 5
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 10
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-24 ; Times: 15
+	Date: 2015-09-27 ; Times: 7
+	Date: 2015-09-26 ; Times: 29
+	Date: 2015-09-21 ; Times: 5
+	Date: 2015-09-20 ; Times: 4
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-08 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Spizella pallida" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "american badger" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "rissa tridactyla" ; Times: 1
+	Query: "old woman california aves" ; Times: 1
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 4
+	Query: "Mississippi Aves Lowndes" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 5
+	Query: "P niger" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "family:Tinamidae (egg)" ; Times: 1
+	Query: "ploceus" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.6802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "Megaceryle" ; Times: 1
+	Query: "Phoebastria irrorata" ; Times: 3
+	Query: "distance(location,geopoint(21.7802369569,-105.849505705))&lt;15000" ; Times: 1
+	Query: "Certhia americana phillipsi" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "distance(location,geopoint(23.2802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "Otus brucei" ; Times: 1
+	Query: "phylloscopus schwarzi" ; Times: 3
+	Query: "distance(location,geopoint(22.9802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "Entre Rios" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 3
+	Query: "Trochilidae eggs type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "phaethon" ; Times: 1
+	Query: "Gavia stellata mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;10000" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia collectioncode:UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "distance(location,geopoint(21.9802369569,-105.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "Dickey" ; Times: 2
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "lonchura malacca" ; Times: 2
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Zenaida asiatica" ; Times: 2
+	Query: "athene cunicularia hypugaea" ; Times: 1
+	Query: "country:&#34;kiribati&#34;" ; Times: 1
+	Query: "HERONS" ; Times: 1
+	Query: "distance(location,geopoint(23.0802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "MVZ 12706" ; Times: 1
+	Query: "distance(location,geopoint(28.6802369569,-112.749505705))&lt;10000" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 2
+	Query: "aimophila aestivalis" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "strix nebulosa" ; Times: 2
+	Query: "country:&#34;russia&#34; (Charadriiformes) year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "country:&#34;Turkey&#34;" ; Times: 2
+	Query: "phylloscopus collybita" ; Times: 2
+	Query: "Junco hyemalis" ; Times: 2
+	Query: "specificepithet:virescens genus:Butorides media:1" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "A. H. Wood class:Aves" ; Times: 1
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "mummy" ; Times: 10
+	Query: "egg collecting" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(21.9802369569,-105.749505705))&lt;15000" ; Times: 1
+	Query: "Streator" ; Times: 1
+	Query: "specificepithet:lapponicus genus:calcarius year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "North American Porcupine mappable:1" ; Times: 2
+	Query: "family:Tinamidae" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "alcippe poioicephala" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "anas strepera" ; Times: 4
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "North American Porcupine" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "hawaii* petrel" ; Times: 1
+	Query: "Hypsipetes" ; Times: 2
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "Bulgaria" ; Times: 2
+	Query: "Angola" ; Times: 1
+	Query: "zarcero" ; Times: 4
+	Query: "eudyptes" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.949505705))&lt;10000" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 2
+	Query: "Neophron" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.449505705))&lt;10000" ; Times: 1
+	Query: "Nonnula type:specimen institutioncode:MVZ" ; Times: 1
+	Query: "pyrrhula pyrrhula" ; Times: 1
+	Query: "black rail" ; Times: 3
+	Query: "distance(location,geopoint(27.3802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "great blue heron" ; Times: 1
+	Query: "distance(location,geopoint(29.0802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "fregata minor" ; Times: 1
+	Query: "Nonnula type:specimen" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 1
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "north american porcupine mappable:1" ; Times: 1
+	Query: "Ohio aves" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "Pyrocephalus rubinus." ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.6802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "type:specimen specificepithet:stelleri genus:Cyanocitta collectioncode:UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "tinamiformes" ; Times: 1
+	Query: "distance(location,geopoint(24.6802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Gowland year &gt;= 1700 year &lt;= 1940" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 24
+	Query: "distance(location,geopoint(26.0802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.449505705))&lt;10000" ; Times: 1
+	Query: "institutioncode:MVZ media:1" ; Times: 4
+	Query: "Butorides virescens" ; Times: 2
+	Query: "distance(location,geopoint(26.6802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "wild rice" ; Times: 1
+	Query: "North american porcupine" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "A. H. Wood" ; Times: 2
+	Query: "distance(location,geopoint(28.8802369569,-113.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 4
+	Query: "plants" ; Times: 1
+	Query: "North American porcupine mappable:1" ; Times: 1
+	Query: "brazos county" ; Times: 1
+	Query: "Pitangus sulphuratus" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.049505705))&lt;10000" ; Times: 1
+	Query: "class:aves coordinateuncertaintyinmeters&lt;=1000 stateprovince:california year:1976" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 2
+	Query: "north american porcupine" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "dendragapus obscurus" ; Times: 6
+	Query: "distance(location,geopoint(25.9802369569,-111.249505705))&lt;10000" ; Times: 1
+	Query: "ichthyophaga ichthyaetus" ; Times: 2
+	Query: "porcupine" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "Mississippi Aves Noxubee" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "A. H. Wood class:Aves year &gt;= 1920 year &lt;= 1930" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Gowland" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "country:&#34;India&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "MVZ 68872" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "batrachostomus stellatus" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "tangara" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "synallaxis" ; Times: 1
+	Query: "passerina ciris institutioncode:MVZ" ; Times: 2
+	Query: "type:specimen specificepithet:formosus order:Passeriformes" ; Times: 1
+	Query: "Entre" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 4
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "(ploceus)" ; Times: 1
+	Query: "brazos" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Calyptorhynchus baudinii" ; Times: 2
+	Query: "Mississippi Aves" ; Times: 2
+	Query: "distance(location,geopoint(21.7802369569,-105.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(28.7802369569,-111.949505705))&lt;10000" ; Times: 1
+	Query: "gallus gallus" ; Times: 1
+	Query: "corax" ; Times: 1
+	Query: "specificepithet:VIRESCENS genus:BUTORIDES media:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1045 download events in this period)
+Total number of records downloaded: 6092
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 9
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-19 ; Times: 8
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-16 ; Times: 6
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-22 ; Times: 5
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-02 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "distance(location,geopoint(-7.986704103140561,142.18505859375))&lt;100000" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "type:specimen specificepithet:stelleri genus:Cyanocitta collectioncode:UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Sporophila" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "Papua" ; Times: 1
+	Query: "Paradisaeidae year &lt;= 2015 mappable:1" ; Times: 2
+	Query: "old woman california chordata" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "country:&#34;United States&#34; class:Aves" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia collectioncode:UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Spizella breweri" ; Times: 1
+	Query: "PNG" ; Times: 2
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+
+
+End of report.
