@@ -1,0 +1,130 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 441
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 33
+	Country: Netherlands ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-02 ; Times: 11
+	Date: 2016-03-03 ; Times: 10
+	Date: 2016-03-01 ; Times: 3
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-11 ; Times: 8
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-13 ; Times: 5
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (clutch OR egg OR eggs)" ; Times: 3
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "aves distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;195452" ; Times: 1
+	Query: "Rollo Beck" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34; year &gt;= 1876 year &lt;= 1900" ; Times: 1
+	Query: "calvert" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "elaenia" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "elf" ; Times: 4
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "calothorax lucifer mexico" ; Times: 1
+	Query: "golden eagle" ; Times: 2
+	Query: "pine warbler egg" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 3
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "type:specimen specificepithet:astrild genus:estrilda (clutch OR egg OR eggs)" ; Times: 1
+	Query: "falco mexicanus" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "locality:Tafi country:&#34;Argentina&#34;" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1876 year &lt;= 1890" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+	Query: "Aves Costa Rica" ; Times: 1
+	Query: "vermilion flycatcher" ; Times: 3
+	Query: "Porzana palmeri" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "(A.B. Howell)" ; Times: 1
+	Query: "alcedo" ; Times: 1
+	Query: "lichen" ; Times: 1
+	Query: "dendragapus obscurus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 230 download events in this period)
+Total number of records downloaded: 348
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Denmark ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "Setophaga nigrescens" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1949" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+
+
+End of report.
