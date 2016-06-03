@@ -1,0 +1,183 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 523
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Ukraine ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 58
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 6
+	Date: 2016-05-17 ; Times: 5
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-13 ; Times: 4
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 5
+	Date: 2016-05-10 ; Times: 7
+	Date: 2016-05-31 ; Times: 9
+	Date: 2016-05-30 ; Times: 5
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 4
+	Date: 2016-05-05 ; Times: 7
+	Date: 2016-05-06 ; Times: 6
+	Date: 2016-05-07 ; Times: 9
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-24 ; Times: 4
+	Date: 2016-05-25 ; Times: 6
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 2
+	Query: "Synthliboramphus antiquus AND Island" ; Times: 1
+	Query: "Alcippe" ; Times: 1
+	Query: "Megaceryle AND Island" ; Times: 1
+	Query: "Ardea AND Island AND California" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "scotland 1921 egg" ; Times: 1
+	Query: "ploceus" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "laysan albatross" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Bancroft AND Island" ; Times: 1
+	Query: "Pelecanus AND Anacapa AND 1927" ; Times: 1
+	Query: "genus:cistothorus class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "philomachus pugnax" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Pandion AND San Clemente Island" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 2
+	Query: "aramus guarauna" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "batrachostomus javensis" ; Times: 1
+	Query: "distance(location,geopoint(27.301036,-112.763516))&lt;15000" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "iceland 1929 egg" ; Times: 1
+	Query: "pleth*" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island" ; Times: 1
+	Query: "Echo Lake" ; Times: 1
+	Query: "Ardea AND Island" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND San Miguel" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "honey lake lassen" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 3
+	Query: "Parabuteo unicinctus" ; Times: 2
+	Query: "Nicolas Island AND Pandion" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island NOT Mexico" ; Times: 1
+	Query: "San Clemente Island AND Pandion" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "Trichastoma" ; Times: 1
+	Query: "myiagra azureocapilla" ; Times: 1
+	Query: "setophaga nigrescens" ; Times: 1
+	Query: "Pandion AND Island" ; Times: 1
+	Query: "Callipepla squamata" ; Times: 1
+	Query: "Tympanuchus cupido (Canada)" ; Times: 2
+	Query: "numenius" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "Eremophila alpestris AND San Clemente Island" ; Times: 1
+	Query: "&#34;Spizella pusilla pusilla&#34;" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "county:&#34;San Diego&#34; stateprovince:&#34;California&#34; recordedby:Stephens" ; Times: 1
+	Query: "caprimulgus indicus" ; Times: 2
+	Query: "larus canus" ; Times: 1
+	Query: "Pelecanus AND Anacapa" ; Times: 2
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "batis" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "Vireo huttoni" ; Times: 1
+	Query: "university of minnesota" ; Times: 1
+	Query: "Megaceryle AND Island AND California" ; Times: 1
+	Query: "Mergus serrator AND Island" ; Times: 1
+	Query: "Callipepla squamata distance(location,geopoint(29.075375179558346,-109.62158203125))&lt;431816.7065638619" ; Times: 1
+	Query: "Empidonax flaviventris egg" ; Times: 1
+	Query: "Melanerpes aurifrons" ; Times: 1
+	Query: "communis" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.919516))&lt;15000" ; Times: 2
+	Query: "anhima cornuta" ; Times: 4
+	Query: "distance(location,geopoint(20.549036,-105.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-106.397516))&lt;15000" ; Times: 1
+	Query: "Lanius cristatus" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "anser" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; (egg) year &gt;= 1850 year &lt;= 2016" ; Times: 1
+	Query: "Alauda arvensis" ; Times: 1
+	Query: "Eremophila alpestris AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "genus:cistothorus class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 2016" ; Times: 1
+	Query: "Falco AND San Miguel" ; Times: 1
+	Query: "saw whet owl" ; Times: 1
+	Query: "albicaudatus" ; Times: 1
+	Query: "Liocichla" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "Passer domesticus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 327 download events in this period)
+Total number of records downloaded: 6143
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 1
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Timaliidae" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
