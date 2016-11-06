@@ -1,0 +1,59 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 468
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: South Africa ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-12 ; Times: 3
+	Date: 2016-10-23 ; Times: 1
+	Date: 2016-10-26 ; Times: 1
+	Date: 2016-10-14 ; Times: 7
+	Date: 2016-10-28 ; Times: 1
+	Date: 2016-10-07 ; Times: 1
+	Date: 2016-10-05 ; Times: 1
+	Date: 2016-10-03 ; Times: 8
+	Date: 2016-10-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 1
+	Query: "Aquila rapax 1" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 2
+	Query: " specificepithet:tristis genus:Acridotheres" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 2
+	Query: "Pandion haliaetus mappable:1" ; Times: 6
+	Query: "Acridotheres tristis mappable:1" ; Times: 1
+	Query: "Anas americana 1" ; Times: 1
+	Query: "Gymnogyps californianus mappable:1" ; Times: 2
+	Query: "Uraeginthus bengalus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
