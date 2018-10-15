@@ -1,0 +1,509 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 648
+Number of records retrieved in searches: 2347
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: United States ; Times: 290
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Portugal ; Times: 268
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 9
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 12
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 7
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Brazil ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 15
+	Date: 2018-02-08 ; Times: 56
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 17
+	Date: 2018-02-07 ; Times: 22
+	Date: 2018-02-06 ; Times: 46
+	Date: 2018-02-05 ; Times: 26
+	Date: 2018-02-04 ; Times: 8
+	Date: 2018-02-21 ; Times: 15
+	Date: 2018-02-20 ; Times: 152
+	Date: 2018-02-23 ; Times: 16
+	Date: 2018-02-22 ; Times: 10
+	Date: 2018-02-25 ; Times: 8
+	Date: 2018-02-24 ; Times: 3
+	Date: 2018-02-27 ; Times: 154
+	Date: 2018-02-26 ; Times: 7
+	Date: 2018-02-28 ; Times: 15
+	Date: 2018-02-14 ; Times: 14
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-16 ; Times: 7
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-11 ; Times: 10
+	Date: 2018-02-12 ; Times: 5
+	Date: 2018-02-13 ; Times: 12
+	Date: 2018-02-18 ; Times: 5
+	Date: 2018-02-19 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Aix sponsa mappable:1" ; Times: 3
+	Query: "Phoebastria" ; Times: 1
+	Query: "Uraeginthus bengalus mappable:1" ; Times: 4
+	Query: "class:Aves recordedby:William F. Palsson" ; Times: 2
+	Query: "10066" ; Times: 1
+	Query: "Accipiter badius mappable:1" ; Times: 4
+	Query: "locality:Chabot stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Lonchura striata mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(45.2521729495,-92.422245926))&lt;19803" ; Times: 4
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ladakh" ; Times: 1
+	Query: "class:aves (vanuatu) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 2
+	Query: "Anas poecilorhyncha mappable:1" ; Times: 4
+	Query: "Eudocimus ruber mappable:1" ; Times: 4
+	Query: "vntype:specimen catalognumber:14835 institutioncode:MVZ" ; Times: 1
+	Query: "delichon urbicum" ; Times: 1
+	Query: "Scopus umbretta mappable:1" ; Times: 4
+	Query: "Mergus serrator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dendrocopos major mappable:1" ; Times: 2
+	Query: "Picoides villosus alberta" ; Times: 1
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "Phasianidae+Cameroon" ; Times: 1
+	Query: "condor" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Haliaeetus vocifer mappable:1" ; Times: 4
+	Query: "elf" ; Times: 2
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "Worcester year &gt;= 1890 year &lt;= 1893" ; Times: 1
+	Query: "Ploceus manyar mappable:1" ; Times: 4
+	Query: "catalognumber:5598 institutioncode:MVZ" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 20
+	Query: "distance(location,geopoint(26.42121702,-98.911099544))&lt;20391" ; Times: 1
+	Query: "Lagonosticta senegala mappable:1" ; Times: 4
+	Query: "Euplectes axillaris mappable:1" ; Times: 4
+	Query: "gannet" ; Times: 1
+	Query: "Phoebastria irrorata" ; Times: 1
+	Query: "Bald eagle" ; Times: 1
+	Query: "Lonchura punctulata mappable:1" ; Times: 4
+	Query: "chinensis specificepithet:paludicola genus:Riparia" ; Times: 1
+	Query: "class:Aves country:&#34;Nepal&#34;" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "catalognumber:5596 institutioncode:MVZ" ; Times: 1
+	Query: "locality:crystal springs county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "distance(location,geopoint(44.0205308500001,-83.4492345135))&lt;2766" ; Times: 4
+	Query: "Larus fuscus" ; Times: 2
+	Query: "Santa Clara County colaptes" ; Times: 1
+	Query: "distance(location,geopoint(26.327607579,-98.6873090154999))&lt;17422" ; Times: 1
+	Query: "locality: Stony Point county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Lonchura malacca mappable:1" ; Times: 4
+	Query: "catalognumber:12260 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen genus:Aepyornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "hornemanni" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+	Query: "Pycnonotus jocosus mappable:1" ; Times: 4
+	Query: "Sterna paradisaea" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "chesapeake" ; Times: 1
+	Query: "Dickey" ; Times: 1
+	Query: "Anas cyanoptera mappable:1" ; Times: 2
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "Halcyon chloris mappable:1" ; Times: 5
+	Query: "catalognumber:13527 institutioncode:MVZ" ; Times: 2
+	Query: "Phoebastria irrorata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "Monarchidae Cameroon" ; Times: 1
+	Query: "Euplectes jacksoni mappable:1" ; Times: 4
+	Query: "Coliidae+Cameroon" ; Times: 1
+	Query: "distance(location,geopoint(43.5855034415,-88.6414220575))&lt;8668" ; Times: 4
+	Query: "catalognumber:11378 institutioncode:MVZ" ; Times: 1
+	Query: "Streptopelia orientalis mappable:1" ; Times: 4
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "Quelea quelea mappable:1" ; Times: 4
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "specificepithet:parisorum genus:Icterus institutioncode:MVZ" ; Times: 2
+	Query: "catalognumber:3007 institutioncode:MVZ" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:11238 institutioncode:MVZ" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "Actophilornis africanus mappable:1" ; Times: 5
+	Query: "caracara cheriway" ; Times: 2
+	Query: "Least Sandpiper" ; Times: 1
+	Query: "Ardea cinerea" ; Times: 2
+	Query: "Emberiza cioides mappable:1" ; Times: 4
+	Query: "Arremonops conirostris conirostris" ; Times: 2
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 4
+	Query: "specificepithet:melodia kenaiensis genus:melospiza" ; Times: 1
+	Query: "distance(location,geopoint(44.6454142935001,-84.5505796995))&lt;11374" ; Times: 4
+	Query: "specificepithet:nebouxii genus:Sula institutioncode:MVZ" ; Times: 1
+	Query: "Serinus mozambicus mappable:1" ; Times: 3
+	Query: "woodcock" ; Times: 1
+	Query: "hornemanni exilipes" ; Times: 1
+	Query: "butorides frazari" ; Times: 1
+	Query: "Ploceus cucullatus mappable:1" ; Times: 2
+	Query: "Pycnonotus leucogenys mappable:1" ; Times: 3
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "riparia chinensis" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "(Kashmir)" ; Times: 1
+	Query: "Zosterops senegalensis mappable:1" ; Times: 4
+	Query: "genus:Ectopistes" ; Times: 2
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "Euplectes afer mappable:1" ; Times: 4
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Eudocimus albus Florida" ; Times: 1
+	Query: "Lamprotornis chalybaeus mappable:1" ; Times: 5
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 3
+	Query: "specificepithet:caerulea genus:Passerina year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "Zenaida auriculata mappable:1" ; Times: 4
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 4
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 6
+	Query: "terpsiphone" ; Times: 1
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "catalognumber:3004 institutioncode:MVZ" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; recordedby:wallace" ; Times: 2
+	Query: "vntype:specimen catalognumber:8828 institutioncode:MVZ" ; Times: 1
+	Query: "Pycnonotus cafer mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(47.702242836,-96.2875780345))&lt;10334" ; Times: 4
+	Query: "class:aves (woodward)" ; Times: 1
+	Query: "Phoenicopterus ruber mappable:1" ; Times: 4
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus locality:Guadalupe stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.6212740058635,-95.2482103224999))&lt;15916" ; Times: 4
+	Query: "Anas bahamensis mappable:1" ; Times: 3
+	Query: "Oxyura jamaicensis mappable:1" ; Times: 2
+	Query: "Anhima cornuta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas poecilorhyncha basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34; preparations:egg" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "Alameda County colaptes" ; Times: 1
+	Query: "Ploceus nigerrimus mappable:1" ; Times: 4
+	Query: "Palsson" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "scientificname:&#34;spheniscus magellanicus&#34;" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "Lophura nycthemera mappable:1" ; Times: 4
+	Query: "prunella" ; Times: 3
+	Query: "catalognumber:120" ; Times: 2
+	Query: "recordedby:patton" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "Leiothrix lutea mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(44.0128904510001,-94.128736887))&lt;26613" ; Times: 4
+	Query: "distance(location,geopoint(40.3259350065001,-90.098832204))&lt;4130" ; Times: 4
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "Columba livia egg" ; Times: 1
+	Query: "Columbina talpacoti mappable:1" ; Times: 4
+	Query: "catalognumber:447" ; Times: 1
+	Query: "Ploceus melanocephalus mappable:1" ; Times: 4
+	Query: "vntype:specimen catalognumber:14828 institutioncode:MVZ" ; Times: 1
+	Query: "melospiza sanaka" ; Times: 1
+	Query: "distance(location,geopoint(43.779212493,-95.2178509615))&lt;17306" ; Times: 4
+	Query: "specificepithet:aalge genus:uria country:&#34;canada&#34;" ; Times: 1
+	Query: "spelaeornis longicaudatus" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 4
+	Query: "scientificname:&#34;ciconia nigra&#34;" ; Times: 1
+	Query: "catalognumber:5595 institutioncode:MVZ" ; Times: 1
+	Query: "short eared owl" ; Times: 2
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "calocitta colliei" ; Times: 1
+	Query: "scientificname:&#34;caprimulgus europaeus&#34;" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "distance(location,geopoint(43.5272107798635,-95.104608857))&lt;18048" ; Times: 4
+	Query: "specificepithet:hypoleucus hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;corvus corax&#34; vntype:specimen year &gt;= 1920 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "13773" ; Times: 1
+	Query: "vntype:specimen catalognumber:1373 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen catalognumber:9476 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen catalognumber:14827 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Icterus institutioncode:MVZ" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 4
+	Query: "catalognumber:5599 institutioncode:MVZ" ; Times: 1
+	Query: "Gulls" ; Times: 1
+	Query: "Ploceus velatus mappable:1" ; Times: 4
+	Query: "Jacana jacana mappable:1" ; Times: 4
+	Query: "Geopelia striata mappable:1" ; Times: 4
+	Query: "Ploceus jacksoni mappable:1" ; Times: 4
+	Query: "Thamnophilus doliatus" ; Times: 1
+	Query: "specificepithet:spodocephala genus:Emberiza" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "catalognumber:11417 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Surnia class:Aves" ; Times: 2
+	Query: "Diomedea epomophora basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Monachus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "recordedby:beck year &gt;= 1922 year &lt;= 1922 month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:maccormicki class:aves" ; Times: 3
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 2
+	Query: "Eutoxeres condamini" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 4
+	Query: "specificepithet:montanus genus:passer" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.7499802595001,-88.6469025154999))&lt;13262" ; Times: 4
+	Query: "Vidua macroura mappable:1" ; Times: 4
+	Query: "specificepithet:pusilla genus:spizella stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "Lonchura atricapilla mappable:1" ; Times: 4
+	Query: "Dendragapus obscurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Padda oryzivora mappable:1" ; Times: 3
+	Query: "Euplectes ardens mappable:1" ; Times: 3
+	Query: "specificepithet:melodia sanaka genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "specificepithet:ludovicianus genus:Lanius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 3
+	Query: "specificepithet:niger genus:Cypseloides month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "catalognumber:13005 institutioncode:MVZ" ; Times: 1
+	Query: "Platalea ajaja mappable:1" ; Times: 4
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "vntype:specimen catalognumber:11268 institutioncode:MVZ" ; Times: 1
+	Query: "Oena capensis mappable:1" ; Times: 4
+	Query: "Guira guira mappable:1" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo county:&#34;el dorado&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ash throated flycatcher" ; Times: 2
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "locality:Laguna county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "Aythya valisineria mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(43.1414242245,-94.7876604945))&lt;15923" ; Times: 4
+	Query: "Batis capensis" ; Times: 1
+	Query: "distance(location,geopoint(47.325507804,-95.8597765889999))&lt;24904" ; Times: 4
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "scientificname:&#34;falco subbuteo&#34;" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 4
+	Query: "Dendragapus obscurus country:&#34;Canada&#34;" ; Times: 1
+	Query: "Tulare County colaptes" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34;" ; Times: 2
+	Query: "recordedby:beck year &gt;= 1922 year &lt;= 1922 month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Taeniopygia guttata mappable:1" ; Times: 5
+	Query: "Acridotheres tristis mappable:1" ; Times: 4
+	Query: "Philetairus socius" ; Times: 1
+	Query: "locality:Pacheco stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Lonchura cucullata mappable:1" ; Times: 3
+	Query: "catalognumber:5597 institutioncode:MVZ" ; Times: 1
+	Query: "class:Aves (Jammu)" ; Times: 1
+	Query: "class:Aves (Kashmir)" ; Times: 1
+	Query: "catalognumber:1305 institutioncode:MVZ" ; Times: 1
+	Query: "Lonchura maja mappable:1" ; Times: 4
+	Query: "ptilogonys otofuscus" ; Times: 1
+	Query: "class:Aves (Ladakh)" ; Times: 1
+	Query: "Francolinus francolinus mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 4
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Diomedea epomophora epomophora basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gyps coprotheres mappable:1" ; Times: 4
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Euplectes nigroventris mappable:1" ; Times: 4
+	Query: "specificepithet:melodia sanaka genus:melospiza" ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "manakin" ; Times: 1
+	Query: "distance(location,geopoint(43.2547916795001,-94.2313004395))&lt;32280" ; Times: 4
+	Query: "genus:Protonotaria" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "(Langara)" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "catalognumber:3512 institutioncode:MVZ" ; Times: 1
+	Query: "scientificname:&#34;luscinia megarhynchos&#34;" ; Times: 1
+	Query: "Estrildidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia rufina genus:melospiza" ; Times: 1
+	Query: "Batis" ; Times: 1
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 4
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Lophotis ruficrista" ; Times: 3
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 2
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "Platycercus icterotis mappable:1" ; Times: 3
+	Query: "11297" ; Times: 1
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1855 year &lt;= 1866" ; Times: 1
+	Query: "Cygnus atratus mappable:1" ; Times: 4
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "Branta bernicla basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bubo africanus mappable:1" ; Times: 3
+	Query: "hummingbird" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 4
+	Query: "Serinus canaria mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(26.4004249545,-97.741822877))&lt;19845" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 4
+	Query: "Euplectes orix mappable:1" ; Times: 4
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "catalognumber:2712 institutioncode:MVZ" ; Times: 1
+	Query: "class:aves county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "pelagodroma marina" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 1
+	Query: "catalognumber:12259 institutioncode:MVZ" ; Times: 1
+	Query: "locality:pilarcitos county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "Larus dominicanus mappable:1" ; Times: 4
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 2
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "Phasianus colchicus mappable:1" ; Times: 1
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "class:Aves recordedby:Palsson" ; Times: 8
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 1
+	Query: "vntype:specimen catalognumber:10361 institutioncode:MVZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 108 (out of 1892 download events in this period)
+Total number of records downloaded: 3985
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 83
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 7
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-02 ; Times: 9
+	Date: 2018-02-01 ; Times: 4
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 15
+	Date: 2018-02-05 ; Times: 20
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-20 ; Times: 11
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 3
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Larus fuscus" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Estrildidae Cameroon" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "class:Aves country:&#34;Nepal&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "locality: Stony Point county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coliidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "specificepithet:melodia kenaiensis genus:melospiza" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "molothrus" ; Times: 1
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34; preparations:egg" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 8
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "specificepithet:melodia gouldii genus:melospiza" ; Times: 1
+	Query: "specificepithet:spodocephala genus:Emberiza" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "specificepithet:melodia sanaka genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "locality:Laguna county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34;" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "class:Aves (Jammu)" ; Times: 1
+	Query: "class:Aves (Kashmir)" ; Times: 1
+	Query: "specificepithet:melodia rufina genus:melospiza" ; Times: 1
+	Query: "class:Aves (Ladakh)" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "Phasianidae+Cameroon" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer continent:North America" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+
+
+End of report.
