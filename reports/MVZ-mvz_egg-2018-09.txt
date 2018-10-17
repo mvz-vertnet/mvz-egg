@@ -1,0 +1,249 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 1173
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Turkey ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: Costa Rica ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Iran ; Times: 7
+	Country: Iceland ; Times: 1
+	Country: China ; Times: 4
+	Country: Germany ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 6
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 99
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 87
+	Country: India ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 16
+	Date: 2018-09-05 ; Times: 17
+	Date: 2018-09-24 ; Times: 57
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-20 ; Times: 16
+	Date: 2018-09-21 ; Times: 7
+	Date: 2018-09-22 ; Times: 4
+	Date: 2018-09-23 ; Times: 6
+	Date: 2018-09-08 ; Times: 4
+	Date: 2018-09-09 ; Times: 2
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-29 ; Times: 2
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-10 ; Times: 6
+	Date: 2018-09-13 ; Times: 7
+	Date: 2018-09-12 ; Times: 9
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-14 ; Times: 16
+	Date: 2018-09-17 ; Times: 23
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 11
+	Date: 2018-09-18 ; Times: 14
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-27 ; Times: 8
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "egg corless" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "vntype:specimen (apapane)" ; Times: 2
+	Query: "specificepithet:americanus genus:Numenius class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sterna dougallii vntype:specimen" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris hasmedia:1" ; Times: 1
+	Query: "class:Aves recordedby:Loucks" ; Times: 4
+	Query: "recordedby:Attwater" ; Times: 1
+	Query: "Hypothymis azurea" ; Times: 2
+	Query: "Egretta thula" ; Times: 11
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "pipreola riefferii" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "PILEATED woodpecker" ; Times: 1
+	Query: "corvus corax" ; Times: 10
+	Query: "specificepithet:gallopavo genus:meleagris hasmedia:1" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 2
+	Query: "egretta thula" ; Times: 7
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "specificepithet:crissalis genus:melozone" ; Times: 2
+	Query: "recordedby:Christie" ; Times: 1
+	Query: "Leucosticte dawsoni" ; Times: 5
+	Query: "14840" ; Times: 1
+	Query: "class:aves country:&#34;india&#34;" ; Times: 1
+	Query: "country:&#34;Bulgaria&#34;" ; Times: 1
+	Query: "specificepithet:lugubris genus:quiscalus" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "sterna dougallii" ; Times: 2
+	Query: "Hypothymis" ; Times: 1
+	Query: "Old woman creek" ; Times: 1
+	Query: "institutioncode:mvz paso robles" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "specificepithet:fusca genus:setophaga" ; Times: 2
+	Query: "specificepithet:aberti genus:melozone" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "Nativitatis Christmas" ; Times: 1
+	Query: "psittacula" ; Times: 1
+	Query: "Brachypteryx" ; Times: 1
+	Query: "strix nebulosa" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 2
+	Query: "specificepithet:parasiticus genus:Stercorarius" ; Times: 1
+	Query: "cave san francisco" ; Times: 1
+	Query: "sterna dougallii institutioncode:MVZ" ; Times: 1
+	Query: "genus:torgos" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 27
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 6
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "snow bunting" ; Times: 1
+	Query: "poecile palustris" ; Times: 2
+	Query: "vntype:specimen (apapane) year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "Osmaston 1907-07" ; Times: 1
+	Query: "turdus merula" ; Times: 1
+	Query: "ancient" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 3
+	Query: "sylvia atricapilla" ; Times: 1
+	Query: "pipreola riefferii riefferii" ; Times: 1
+	Query: "class:aves country:&#34;kenya&#34;" ; Times: 2
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "apapane" ; Times: 4
+	Query: "Red-footed booby" ; Times: 3
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "body size" ; Times: 1
+	Query: "Screech owl" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:wheeler" ; Times: 4
+	Query: "bald eagle washington" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "country:&#34;FInland&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:azarae genus:Synallaxis" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "family:apodidae continent:Africa" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "vntype:specimen specificepithet:pyrrhophia genus:Cranioleuca" ; Times: 1
+	Query: "golden eagle" ; Times: 2
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "DOWNY WOODPECKER" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; year &lt;= 1850" ; Times: 2
+	Query: "mvz AND gymnogyps AND california" ; Times: 3
+	Query: "melospiza melodia sanaka" ; Times: 1
+	Query: "Telespiza" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 4
+	Query: "cinclus" ; Times: 1
+	Query: "catalognumber:5967 institutioncode:MVZ" ; Times: 1
+	Query: "setophaga occidentalis" ; Times: 1
+	Query: "andaman eggs" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "MVZ 3482" ; Times: 1
+	Query: "MVZ 13188" ; Times: 1
+	Query: "aenobarbus" ; Times: 1
+	Query: "genus:Phodilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oriolus chinensis" ; Times: 1
+	Query: "harris hawk" ; Times: 1
+	Query: "Farallon 1903" ; Times: 3
+	Query: "Sula nebouxii" ; Times: 23
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "tree swallow" ; Times: 2
+	Query: "lambs" ; Times: 1
+	Query: "ciconia ciconia" ; Times: 1
+	Query: "catalognumber:13612 institutioncode:MVZ" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "lama" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "andaman nest" ; Times: 1
+	Query: "egg mississippi" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "electra" ; Times: 1
+	Query: "egg ligon" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "palmas" ; Times: 3
+	Query: "Arroyo Seco class:Aves locality:Pasadena county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 2
+	Query: "myiagra azureocapilla" ; Times: 2
+	Query: "copsychus saularis" ; Times: 2
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 7
+	Query: "pipreola riefferii occidentalis" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "Osmaston 1907" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 846 download events in this period)
+Total number of records downloaded: 439
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+
+
+End of report.
