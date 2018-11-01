@@ -1,0 +1,290 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 239
+Number of records retrieved in searches: 1013
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 194
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 5
+	Date: 2018-10-04 ; Times: 9
+	Date: 2018-10-05 ; Times: 6
+	Date: 2018-10-06 ; Times: 3
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-01 ; Times: 5
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 19
+	Date: 2018-10-30 ; Times: 11
+	Date: 2018-10-22 ; Times: 12
+	Date: 2018-10-23 ; Times: 5
+	Date: 2018-10-20 ; Times: 4
+	Date: 2018-10-21 ; Times: 2
+	Date: 2018-10-26 ; Times: 10
+	Date: 2018-10-27 ; Times: 2
+	Date: 2018-10-24 ; Times: 10
+	Date: 2018-10-25 ; Times: 22
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 13
+	Date: 2018-10-08 ; Times: 7
+	Date: 2018-10-09 ; Times: 11
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-18 ; Times: 8
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-12 ; Times: 18
+	Date: 2018-10-11 ; Times: 13
+	Date: 2018-10-10 ; Times: 15
+	Date: 2018-10-17 ; Times: 6
+	Date: 2018-10-16 ; Times: 7
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "MVZ-13010" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 5
+	Query: "american badger" ; Times: 1
+	Query: "acrocephalus arundinaceus china" ; Times: 1
+	Query: "titmouse" ; Times: 2
+	Query: "acrocephalus arundinaceus asia" ; Times: 3
+	Query: "Campylorhynchus zonatus mappable:1" ; Times: 1
+	Query: "California Santa Cruz County pipilo maculatus egg" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "Aerodramus vanikorensis" ; Times: 2
+	Query: "catalognumber:4371 institutioncode:MVZ" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "pycnonotus melanicterus india" ; Times: 1
+	Query: "Apus affinis" ; Times: 1
+	Query: "macrocephalon maleo" ; Times: 1
+	Query: "Gallirallus torquatus" ; Times: 2
+	Query: "mvz Angola" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Leucosticte dawsoni" ; Times: 7
+	Query: "Gallirallus torquatus specimen" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "apus" ; Times: 1
+	Query: "pitta brachyura" ; Times: 2
+	Query: "bird bones" ; Times: 3
+	Query: "Streptopelia tropica" ; Times: 1
+	Query: "MVZ-5866" ; Times: 1
+	Query: "egg 1923 california" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei institutioncode:MVZ" ; Times: 1
+	Query: "tickelli" ; Times: 1
+	Query: "mvz 8497" ; Times: 1
+	Query: "vntype:specimen genus:Selasphorus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 2010 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "nest image" ; Times: 2
+	Query: "tyrannidae country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Apus caffer" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "strix nebulosa" ; Times: 1
+	Query: "specificepithet:tricolor genus:Phalaropus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 1
+	Query: "elephant bird" ; Times: 1
+	Query: "specificepithet:australis genus:Apteryx" ; Times: 1
+	Query: "Asio otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "class:aves recordedby:wilby" ; Times: 1
+	Query: "elaenia flavogaster" ; Times: 3
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "12394" ; Times: 1
+	Query: "locality:aleutian stateprovince:&#34;alaska&#34;" ; Times: 3
+	Query: "Puget Sound museum" ; Times: 2
+	Query: "Oberlin" ; Times: 1
+	Query: "thraupidae" ; Times: 1
+	Query: "egg bay county michigan" ; Times: 1
+	Query: "setophaga pinus" ; Times: 1
+	Query: "snow bunting" ; Times: 3
+	Query: "Colaptes auratus borealis" ; Times: 1
+	Query: "Patagioenas picazuro" ; Times: 2
+	Query: "Marsh Wren" ; Times: 1
+	Query: "egg pratt" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus mappable:1" ; Times: 3
+	Query: "Aerodramus spodiopygius" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "aves apus" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "locality:Escondido county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Manacus manacus" ; Times: 2
+	Query: "turkey vulture country:&#34;United States&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Aves institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aix sponsa" ; Times: 1
+	Query: "genus:Amblyospiza institutioncode:MVZ" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "locality:New York City stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "turkey vulture" ; Times: 1
+	Query: "aves 1891 Bay County" ; Times: 1
+	Query: "university of puget sound" ; Times: 1
+	Query: "genus:platalea order:ciconiiformes" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei" ; Times: 1
+	Query: "genus:Baeolophus class:Aves stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Sooty grouse" ; Times: 1
+	Query: "least tern" ; Times: 3
+	Query: "county:&#34;San Bernardino&#34; year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "Asio Otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:crassirostris genus:Ailuroedus" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "red deer" ; Times: 4
+	Query: "family:Ploceidae preparations:nest" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "Great egret" ; Times: 4
+	Query: "Pipreola" ; Times: 1
+	Query: "class:Aves recordedby:Jacobs" ; Times: 1
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:oenanthe genus:Oenanthe class:aves collectioncode:eggs" ; Times: 3
+	Query: "sula leucogaster" ; Times: 3
+	Query: "Nectarinia jugularis" ; Times: 3
+	Query: "specificepithet:colubris genus:Archilochus year &gt;= 1900 year &lt;= 1970" ; Times: 1
+	Query: "ploceus capensis" ; Times: 3
+	Query: "leistes militaris" ; Times: 2
+	Query: "coragyps atratus" ; Times: 1
+	Query: "country:&#34;Finland&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:gyps" ; Times: 1
+	Query: "egg michigan 1892" ; Times: 1
+	Query: "Phoebastria immutabilis" ; Times: 4
+	Query: "blue jay" ; Times: 2
+	Query: "genus:Parus institutioncode:MVZ" ; Times: 1
+	Query: "turkey vulture country:&#34;United States&#34; California" ; Times: 1
+	Query: "limosa lapponica baueri" ; Times: 1
+	Query: "egg eddy mi" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 2
+	Query: "specificepithet:breweri genus:Spizella class:aves year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "vntype:specimen genus:Megascops institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cantwell minnesota" ; Times: 4
+	Query: "genus:selasphorus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34; (selasphorus) year &gt;= 1860 year &lt;= 2007 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "Rostrhamus" ; Times: 1
+	Query: "harris hawk" ; Times: 2
+	Query: "genus:Picoides stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Jammu and Kashmir&#34; country:&#34;India&#34;" ; Times: 4
+	Query: "Stachyris nigriceps" ; Times: 1
+	Query: "California Santa Cruz County pipilo maculatus" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "Barn Swallow vntype:specimen" ; Times: 7
+	Query: "aves lynn" ; Times: 1
+	Query: "MVZ-11354" ; Times: 1
+	Query: "bay county michigan egg" ; Times: 2
+	Query: "Apus apus" ; Times: 1
+	Query: "zone-tailed hawk" ; Times: 3
+	Query: "cardinal" ; Times: 2
+	Query: "vntype:specimen genus:Selasphorus stateprovince:&#34;Oregon&#34; year &gt;= 1800 year &lt;= 2010" ; Times: 1
+	Query: "ortalis vetula" ; Times: 1
+	Query: "doñana" ; Times: 1
+	Query: "bird bones museum" ; Times: 1
+	Query: "leistes" ; Times: 1
+	Query: "locality:Isla Santa Margarita stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "macrocephalon maleo egg" ; Times: 1
+	Query: "rock minnesota" ; Times: 1
+	Query: "vntype:specimen specificepithet:otus genus:asio institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "locality:crescent valley county:&#34;san diego&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "turkey vulture country:&#34;United States&#34;" ; Times: 1
+	Query: "Asio otus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:oenanthe genus:Oenanthe class:aves" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+	Query: "class:Aves country:&#34;Panama&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "egg rupert" ; Times: 1
+	Query: "pycnonotus melanicterus" ; Times: 2
+	Query: "locality:heatherdown stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "aegypius monachus" ; Times: 1
+	Query: "laysan albatross" ; Times: 1
+	Query: "MVZ-12330" ; Times: 1
+	Query: "Inglewood county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves recordedby:Rossignol" ; Times: 1
+	Query: "pagophila" ; Times: 1
+	Query: "murre egg" ; Times: 1
+	Query: "class:aves recordedby:F.J. Smith" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1300 download events in this period)
+Total number of records downloaded: 430
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Belgium ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-24 ; Times: 6
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-12 ; Times: 5
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Asio Otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "Megascops kennicottii macfarlanei" ; Times: 2
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "genus:Picoides stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "paulson" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "family:Ploceidae preparations:nest" ; Times: 1
+	Query: "Asio otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 2
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Stachyris nigriceps" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "barred owl institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "vntype:specimen class:Aves county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+
+
+End of report.
