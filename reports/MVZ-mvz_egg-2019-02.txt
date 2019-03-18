@@ -1,0 +1,312 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 317
+Number of records retrieved in searches: 2133
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: United States ; Times: 224
+	Country: Russia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 11
+	Country: India ; Times: 6
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Morocco ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Paraguay ; Times: 5
+	Country: Brazil ; Times: 12
+	Country: Serbia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 5
+	Date: 2019-02-11 ; Times: 11
+	Date: 2019-02-13 ; Times: 27
+	Date: 2019-02-12 ; Times: 86
+	Date: 2019-02-15 ; Times: 9
+	Date: 2019-02-14 ; Times: 8
+	Date: 2019-02-17 ; Times: 20
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 6
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-24 ; Times: 2
+	Date: 2019-02-03 ; Times: 6
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-01 ; Times: 3
+	Date: 2019-02-20 ; Times: 5
+	Date: 2019-02-07 ; Times: 5
+	Date: 2019-02-04 ; Times: 45
+	Date: 2019-02-05 ; Times: 8
+	Date: 2019-02-08 ; Times: 13
+	Date: 2019-02-09 ; Times: 2
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-02 ; Times: 16
+	Date: 2019-02-25 ; Times: 13
+	Date: 2019-02-27 ; Times: 14
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus saturninus mappable:1" ; Times: 2
+	Query: "Campylorhynchus brunneicapillus affinis mappable:1" ; Times: 2
+	Query: "specificepithet:lagopus institutioncode:MVZ" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "Melozone fusca fusca mappable:1" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 3
+	Query: "terns" ; Times: 2
+	Query: "14262" ; Times: 1
+	Query: "Callipepla squamata mappable:1" ; Times: 1
+	Query: "Polioptila melanura melanura mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; genus:Buteo institutioncode:MVZ" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "chordeiles aserriensis" ; Times: 2
+	Query: "Cardinalis sinuatus fulvescens mappable:1" ; Times: 3
+	Query: "10817" ; Times: 1
+	Query: "pipilo ocai" ; Times: 3
+	Query: "Turdus albicollis mappable:1" ; Times: 1
+	Query: "specificepithet:genei genus:Larus" ; Times: 1
+	Query: "Phoebastria irrorata" ; Times: 2
+	Query: "Melozone crissalis senicula mappable:1" ; Times: 1
+	Query: "genus:parabuteo class:Aves" ; Times: 1
+	Query: "Dryobates pubescens gairdnerii mappable:1" ; Times: 1
+	Query: "Corvus cryptoleucus cryptoleucus mappable:1" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 2
+	Query: "Cardinalis sinuatus peninsulae mappable:1" ; Times: 1
+	Query: "Vireo bellii county:&#34;los angeles&#34;" ; Times: 2
+	Query: "lullula arborea" ; Times: 4
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "Phainopepla nitens lepida mappable:1" ; Times: 1
+	Query: "Toxostoma crissale coloradense mappable:1" ; Times: 1
+	Query: "Sitta carolinensis aculeata mappable:1" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus couesi mappable:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:12330 institutioncode:MVZ" ; Times: 1
+	Query: "Cardinalis cardinalis igneus mappable:1" ; Times: 1
+	Query: "Polioptila melanura lucida mappable:1" ; Times: 1
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "Dryobates pubescens pubescens mappable:1" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 9
+	Query: "Toxostoma curvirostre palmeri mappable:1" ; Times: 1
+	Query: "Callipepla californica brunnescens mappable:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:7857 institutioncode:MVZ" ; Times: 1
+	Query: "simillimus genus:turdus" ; Times: 1
+	Query: "Spheniscus magellanicus mappable:1" ; Times: 2
+	Query: "phaethon aethereus" ; Times: 2
+	Query: "Cardinalis sinuatus sinuatus mappable:1" ; Times: 1
+	Query: "Polioptila californica californica mappable:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 4
+	Query: "sternula albifrons" ; Times: 1
+	Query: "Ardenna bulleri" ; Times: 2
+	Query: "Dryobates pubescens turati mappable:1" ; Times: 1
+	Query: "podiceps major" ; Times: 3
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "Certhia americana montana mappable:1" ; Times: 1
+	Query: "Vireo bellii arizonae mappable:1" ; Times: 3
+	Query: "Corvus cryptoleucus mappable:1" ; Times: 1
+	Query: "Spelaeornis longicaudatus" ; Times: 2
+	Query: "mvz AND gymnogyps AND california" ; Times: 2
+	Query: "12010" ; Times: 1
+	Query: "Callipepla squamata castanogastris mappable:1" ; Times: 2
+	Query: "locality:herschel island" ; Times: 1
+	Query: "Sitta carolinensis nelsoni mappable:1" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Porphyrio" ; Times: 2
+	Query: "trout size" ; Times: 8
+	Query: "Callipepla gambelii gambelii mappable:1" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 3
+	Query: "P.I. Osburn" ; Times: 2
+	Query: "Campylorhynchus brunneicapillus guttatus mappable:1" ; Times: 1
+	Query: "Certhia americana occidentalis mappable:1" ; Times: 1
+	Query: "Corvus corax principalis mappable:1" ; Times: 1
+	Query: "Certhiaxis cinnamomeus" ; Times: 1
+	Query: "dromaius" ; Times: 2
+	Query: "genus:CHIROXIPHIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &gt;= 1885 year &lt;= 1955" ; Times: 2
+	Query: "specificepithet:macroura year &gt;= 1914 year &lt;= 1918" ; Times: 1
+	Query: "Cardinalis sinuatus mappable:1" ; Times: 3
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Auriparus flaviceps ornatus mappable:1" ; Times: 5
+	Query: "Baeolophus ridgwayi" ; Times: 1
+	Query: "Amphispiza bilineata deserticola mappable:1" ; Times: 4
+	Query: "stateprovince:&#34;Nevada&#34; genus:Buteo specificepithet:swainsoni" ; Times: 1
+	Query: "Colaptes chrysoides chrysoides mappable:1" ; Times: 1
+	Query: "Colaptes chrysoides mearnsi mappable:1" ; Times: 1
+	Query: "Barn Owl" ; Times: 2
+	Query: "body size" ; Times: 7
+	Query: "specificepithet:unicinctus genus:parabuteo class:Aves" ; Times: 1
+	Query: "Amphispiza bilineata bilineata mappable:1" ; Times: 3
+	Query: "specificepithet:caerulea interfusa genus:Passerina" ; Times: 1
+	Query: "Cardinalis cardinalis superbus mappable:1" ; Times: 1
+	Query: "Vireo bellii bellii mappable:1" ; Times: 3
+	Query: "Callipepla squamata squamata mappable:1" ; Times: 2
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "Corvus corax clarionensis mappable:1" ; Times: 1
+	Query: "Alcedo hercules India" ; Times: 1
+	Query: "Dryobates pubescens mappable:1" ; Times: 1
+	Query: "aleutian tern" ; Times: 3
+	Query: "specificepithet:cheriway genus:caracara class:Aves" ; Times: 1
+	Query: "Aramides cajanea mappable:1" ; Times: 2
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &lt;= 1955 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Certhia americana albescens mappable:1" ; Times: 1
+	Query: "rhynchotus" ; Times: 1
+	Query: "tragopan" ; Times: 2
+	Query: "specificepithet:rufigularis genus:Falco" ; Times: 1
+	Query: "Colaptes cafer cafer mappable:1" ; Times: 1
+	Query: "Auriparus flaviceps acaciarum mappable:1" ; Times: 5
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "specificepithet:simillimus genus:turdus" ; Times: 1
+	Query: "Pitangus sulphuratus  mappable:1" ; Times: 1
+	Query: "Auriparus flaviceps mappable:1" ; Times: 2
+	Query: "Certhia americana zelotes mappable:1" ; Times: 1
+	Query: "specificepithet:MELANCHOLICUS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus purus mappable:1" ; Times: 1
+	Query: "Polioptila melanura mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "craveri" ; Times: 1
+	Query: "colaptes brunnescens" ; Times: 2
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "locality:Tres country:&#34;Mexico&#34; year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 1
+	Query: "Melozone crissalis petulans mappable:1" ; Times: 1
+	Query: "county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Toxostoma curvirostre celsum mappable:1" ; Times: 1
+	Query: "osmaston andaman" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 1
+	Query: "Cardinalis cardinalis floridanus mappable:1" ; Times: 1
+	Query: "eudromia" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pipilo stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Toxostoma curvirostre oberholseri mappable:1" ; Times: 1
+	Query: "egretta thula bear river vntype:specimen" ; Times: 1
+	Query: "rynchops niger" ; Times: 4
+	Query: "(&#34;toxostoma cinereum&#34;)" ; Times: 2
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "phytotoma rutila" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:porphyrio" ; Times: 1
+	Query: "Turdus rufiventris mappable:1" ; Times: 2
+	Query: "Melozone crissalis carolae mappable:1" ; Times: 1
+	Query: "Uzbekistan" ; Times: 2
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "specificepithet:unicolor genus:turdus" ; Times: 1
+	Query: "Cardinalis cardinalis seftoni mappable:1" ; Times: 1
+	Query: "specificepithet:unicinctus genus:parabuteo class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Geokichla sibirica" ; Times: 1
+	Query: "Picoides tridactylus" ; Times: 1
+	Query: "specificepithet:rufescens genus:Rhynchotus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Melozone crissalis crissalis mappable:1" ; Times: 1
+	Query: "REDWOOD TREE" ; Times: 5
+	Query: "harris hawk" ; Times: 1
+	Query: "dryobates monticola" ; Times: 2
+	Query: "Psittacula eggs" ; Times: 2
+	Query: "admiralty island order:accipitriformes stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Aphelocoma woodhouseii utah egg" ; Times: 1
+	Query: "Toxostoma lecontei lecontei mappable:1" ; Times: 1
+	Query: "falco femoralis" ; Times: 1
+	Query: "order:accipitriformes county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "Colaptes chrysoides mappable:1" ; Times: 1
+	Query: "Corvus corax sinuatus mappable:1" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "specificepithet:rufiventris family:turdidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "MVZ 5820" ; Times: 5
+	Query: "specificepithet:tataupa genus:Crypturellus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Melozone fusca mesoleuca mappable:1" ; Times: 1
+	Query: "atticora fasciata" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Acrocephalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "calocitta colliei" ; Times: 4
+	Query: "Toxostoma crissale crissale mappable:1" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 3
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Vireo bellii mappable:1" ; Times: 3
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "california black bear" ; Times: 1
+	Query: "Phainopepla nitens nitens mappable:1" ; Times: 1
+	Query: "swallow stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Toxostoma crissale mappable:1" ; Times: 1
+	Query: "Cardinalis cardinalis canicaudus mappable:1" ; Times: 1
+	Query: "Callipepla squamata pallida mappable:1" ; Times: 2
+	Query: "Melanitta americana" ; Times: 1
+	Query: "leucophaeus atricilla" ; Times: 1
+	Query: "Melozone crissalis albigula mappable:1" ; Times: 1
+	Query: "Auriparus flaviceps flaviceps mappable:1" ; Times: 5
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Melozone crissalis aripolia mappable:1" ; Times: 1
+	Query: "(body size)" ; Times: 4
+	Query: "Thalassarche chrysostoma" ; Times: 2
+	Query: "Polioptila californica mappable:1" ; Times: 1
+	Query: "13463" ; Times: 1
+	Query: "Dryobates pubescens medianus mappable:1" ; Times: 1
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 1
+	Query: "genus:otis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1227 download events in this period)
+Total number of records downloaded: 182
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 16
+	Country: Mexico ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 6
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-13 ; Times: 11
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "simillimus genus:turdus" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &lt;= 1955 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "calocitta colliei" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "specificepithet:simillimus genus:turdus" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Porphyrio" ; Times: 2
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "vntype:specimen specificepithet:sagittatus genus:oriolus" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "osmaston andaman" ; Times: 1
+	Query: "specificepithet:caerulea interfusa genus:Passerina" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "(&#34;toxostoma cinereum&#34;)" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:porphyrio" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "specificepithet:unicolor genus:turdus" ; Times: 2
+	Query: "rynchops niger" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 2
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
