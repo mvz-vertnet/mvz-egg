@@ -1,0 +1,323 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 307
+Number of records retrieved in searches: 1230
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 9
+	Country: Russia ; Times: 4
+	Country: Netherlands ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 18
+	Country: India ; Times: 9
+	Country: France ; Times: 2
+	Country: United States ; Times: 188
+	Country: Switzerland ; Times: 4
+	Country: Germany ; Times: 6
+	Country: United Kingdom ; Times: 14
+	Country: Chile ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 14
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 7
+	Country: New Zealand ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 3
+	Date: 2019-03-27 ; Times: 19
+	Date: 2019-03-26 ; Times: 5
+	Date: 2019-03-25 ; Times: 6
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 6
+	Date: 2019-03-08 ; Times: 11
+	Date: 2019-03-21 ; Times: 6
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-05 ; Times: 5
+	Date: 2019-03-09 ; Times: 3
+	Date: 2019-03-07 ; Times: 8
+	Date: 2019-03-06 ; Times: 73
+	Date: 2019-03-01 ; Times: 12
+	Date: 2019-03-29 ; Times: 6
+	Date: 2019-03-22 ; Times: 10
+	Date: 2019-03-04 ; Times: 15
+	Date: 2019-03-15 ; Times: 14
+	Date: 2019-03-30 ; Times: 6
+	Date: 2019-03-31 ; Times: 10
+	Date: 2019-03-03 ; Times: 6
+	Date: 2019-03-18 ; Times: 16
+	Date: 2019-03-19 ; Times: 4
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 8
+	Date: 2019-03-14 ; Times: 17
+	Date: 2019-03-02 ; Times: 7
+	Date: 2019-03-12 ; Times: 5
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-10 ; Times: 13
+	Date: 2019-03-11 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves catalognumber:8445 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Icterus pyrrhopterus" ; Times: 5
+	Query: "corvus caurinus" ; Times: 2
+	Query: "Dryobates nuttallii" ; Times: 1
+	Query: "Buteo hypospodius" ; Times: 1
+	Query: "locality:brenham county:&#34;washington&#34; stateprovince:&#34;texas&#34; year &gt;= 1934 year &lt;= 1984" ; Times: 1
+	Query: "Chickadee" ; Times: 1
+	Query: "buteogallus anthracinus" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "order:Dinornithiformes AND (egg)" ; Times: 1
+	Query: "Ardenna bulleri" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 7
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "specificepithet:ossifragus genus:Corvus family:Corvidae" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Kansas" ; Times: 4
+	Query: "Corvus corone" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "class:Aves catalognumber:10689 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nivalis genus:Plectrophenax year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 1
+	Query: "tree sparrow" ; Times: 1
+	Query: "specificepithet:auratus genus:Colaptes stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Phoebastria irrorata" ; Times: 1
+	Query: "Milton Ray AND Island" ; Times: 1
+	Query: "specificepithet:corone genus:Corvus family:Corvidae order:Passeriformes class:Aves" ; Times: 1
+	Query: "specificepithet:cyanoptera genus:Vermivora year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "vntype:specimen specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "class:Aves catalognumber:8806 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Tibet&#34;" ; Times: 1
+	Query: "Calandra" ; Times: 1
+	Query: "Cuculus canorus egg" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "clamator coromandus india" ; Times: 1
+	Query: "family:Dinornithidae preparations:egg" ; Times: 2
+	Query: "catalognumber:134 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen genus:bubo stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New Jersey" ; Times: 4
+	Query: "Elaenia chiriquensis mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "Aethopyga eximia" ; Times: 1
+	Query: "catalognumber:1832 institutioncode:MVZ" ; Times: 2
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 7
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "12308" ; Times: 1
+	Query: "Didunculus strigirostris" ; Times: 1
+	Query: "locality:Castle county:&#34;Del Norte&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:pintadeanus genus:francolinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:madagascariensis genus:porphyrio" ; Times: 1
+	Query: "class:Aves catalognumber:8855 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "MVZ Egg 4691" ; Times: 1
+	Query: "podiceps major" ; Times: 2
+	Query: "Cyrtonyx montezumae" ; Times: 5
+	Query: "MVZ-3277" ; Times: 1
+	Query: "vntype:specimen genus:Zonotrichia class:Aves country:&#34;Brazil&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New York" ; Times: 4
+	Query: "mummy" ; Times: 1
+	Query: "Spelaeornis longicaudatus" ; Times: 9
+	Query: "class:Aves catalognumber:8443 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 3
+	Query: "catalognumber:14298 institutioncode:MVZ" ; Times: 2
+	Query: "genus:Cursorius order:Charadriiformes class:Aves" ; Times: 1
+	Query: "class:Aves catalognumber:10686 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Rhode Island" ; Times: 4
+	Query: "MVZ egg 4691" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "Andamanensis" ; Times: 1
+	Query: "Milton Ray AND Farallon" ; Times: 2
+	Query: "Dicrurus macrocercus" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Illinois" ; Times: 4
+	Query: "vntype:specimen specificepithet:poliocephalus genus:porphyrio" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Maryland" ; Times: 4
+	Query: "geranoaetus" ; Times: 1
+	Query: "MVZ 2733" ; Times: 1
+	Query: "family:trochilidae (fluid OR wet OR alcohol OR all) institutioncode:MVZ" ; Times: 1
+	Query: "Lophotis ruficrista" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 5
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "class:Aves catalognumber:8444 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Alcippe rufogularis" ; Times: 1
+	Query: "Euplectes nigroventris" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Missouri" ; Times: 4
+	Query: "locality:summit county:&#34;placer&#34;" ; Times: 10
+	Query: "specificepithet:auratus genus:Colaptes stateprovince:&#34;Idaho&#34; institutioncode:MVZ" ; Times: 1
+	Query: "13871" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen genus:Zonotrichia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Lonchura country:&#34;Philippines&#34;" ; Times: 2
+	Query: "locality:2 mi S of Oroville" ; Times: 1
+	Query: "calocitta colliei" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Michigan" ; Times: 4
+	Query: "class:Aves stateprovince:&#34;Washington&#34; (Junco) year &gt;= 1890 year &lt;= 1985" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 2
+	Query: "specificepithet:macroura genus:Zenaida country:&#34;Mexico&#34; year &gt;= 1920 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 5
+	Query: "MVZ Egg 4438" ; Times: 2
+	Query: "Setophaga striata" ; Times: 1
+	Query: "Cuculus canorus (egg)" ; Times: 1
+	Query: "class:Aves catalognumber:9718 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:8314 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "laterallus jamaicensis jamaicensis" ; Times: 1
+	Query: "catalognumber:9719 institutioncode:MVZ" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alajuela&#34; (egg)" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Connecticut" ; Times: 4
+	Query: "specificepithet:trichas year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "11583" ; Times: 1
+	Query: "Oenanthe hispanica OR Oenanthe melanoleuca" ; Times: 1
+	Query: "Thryomanes bewickii charienturus" ; Times: 1
+	Query: "Pycnonotus melanicterus" ; Times: 2
+	Query: "campylorhynchus purus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Washington" ; Times: 4
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "Alcippe rufogularis India" ; Times: 2
+	Query: "MVZ 7968" ; Times: 1
+	Query: "Sterna hirundinacea mappable:1" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 2
+	Query: "(Grinnell) year &gt;= 1894 year &lt;= 1894 institutioncode:MVZ" ; Times: 1
+	Query: "locality:Andaman" ; Times: 1
+	Query: "vntype:specimen specificepithet:grus genus:grus" ; Times: 1
+	Query: "rufescens India" ; Times: 1
+	Query: "MVZ 4438" ; Times: 1
+	Query: "genus:haematopus year &gt;= 1921 year &lt;= 1921" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Pennsylvania" ; Times: 4
+	Query: "Dryobates pubescens" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:raine year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes institutioncode:MVZ" ; Times: 1
+	Query: "Rostrhamus" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "MVZ 4691" ; Times: 2
+	Query: "Actenoides" ; Times: 1
+	Query: "PHOENICOPTERUS RUBER" ; Times: 2
+	Query: "Pickering" ; Times: 1
+	Query: "specificepithet:subis genus:Progne stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:pelagica genus:Chaetura preparations:nest basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Milton Ray" ; Times: 1
+	Query: "Emberiza schoeniclus" ; Times: 1
+	Query: "class:Aves catalognumber:8450 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cyanoptera genus:Vermivora year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Wyoming" ; Times: 4
+	Query: "genus:Zosterops institutioncode:MVZ" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34; recordedby:t. surber" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "Thryomanes bewickii charienturus mvz 1897" ; Times: 1
+	Query: "Leptocoma calcostetha" ; Times: 2
+	Query: "12219" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "catalognumber:2733 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "MVZ-7243" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 2
+	Query: "Milvago chimango mappable:1" ; Times: 1
+	Query: "erythrogaster ohio" ; Times: 2
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "Oenanthe melanoleuca" ; Times: 1
+	Query: "nest vntype:specimen specificepithet:pelagica genus:chaetura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Blackberry" ; Times: 1
+	Query: "cygnus atratus egg vntype:specimen" ; Times: 1
+	Query: "Aptenodytes" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Massachusetts" ; Times: 4
+	Query: "class:Aves catalognumber:8449 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "San Pedro River Fairbank Arizona vntype:specimen" ; Times: 1
+	Query: "specificepithet:huttoni genus:Vireo hastypestatus:1" ; Times: 1
+	Query: "specificepithet:motacilla genus:Parkesia year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 2
+	Query: "Larus dominicanus mappable:1" ; Times: 1
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "locality:antelope recordedby:truesdale" ; Times: 2
+	Query: "Poecile rufescens" ; Times: 1
+	Query: "Thryomanes bewickii charienturus mvz" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1281 download events in this period)
+Total number of records downloaded: 570
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-26 ; Times: 4
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-15 ; Times: 3
+	Date: 2019-03-01 ; Times: 5
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Aethopyga eximia" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Icterus pyrrhopterus" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "Spelaeornis longicaudatus" ; Times: 1
+	Query: "Cuculus canorus (egg)" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Leptocoma calcostetha" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "Pycnonotus melanicterus" ; Times: 1
+	Query: "Dicrurus macrocercus" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Tibet&#34;" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen genus:bubo stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+
+
+End of report.
