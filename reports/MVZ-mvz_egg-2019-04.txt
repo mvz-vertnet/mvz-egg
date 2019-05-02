@@ -1,0 +1,310 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 257
+Number of records retrieved in searches: 2016
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: Brazil ; Times: 32
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 6
+	Country: Peru ; Times: 3
+	Country: Nigeria ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 21
+	Country: Denmark ; Times: 4
+	Country: United States ; Times: 135
+	Country: Vietnam ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Greece ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 13
+	Date: 2019-04-19 ; Times: 24
+	Date: 2019-04-18 ; Times: 11
+	Date: 2019-04-05 ; Times: 12
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 12
+	Date: 2019-04-11 ; Times: 9
+	Date: 2019-04-10 ; Times: 12
+	Date: 2019-04-17 ; Times: 9
+	Date: 2019-04-16 ; Times: 9
+	Date: 2019-04-15 ; Times: 22
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-30 ; Times: 19
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-02 ; Times: 5
+	Date: 2019-04-03 ; Times: 9
+	Date: 2019-04-06 ; Times: 9
+	Date: 2019-04-04 ; Times: 9
+	Date: 2019-04-23 ; Times: 11
+	Date: 2019-04-20 ; Times: 5
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-26 ; Times: 3
+	Date: 2019-04-01 ; Times: 4
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 7
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 13
+	Date: 2019-04-09 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fortipes genus:horornis" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 3
+	Query: "pycnonotus jocosus india" ; Times: 2
+	Query: "specificepithet:mexicanus genus:cinclus stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 8
+	Query: "WJ 150" ; Times: 1
+	Query: "M-14857" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "hastypestatus:1 distance(location,geopoint(-14.921271365112322,-70.5475995699594))&lt;100000" ; Times: 1
+	Query: "Lonchura punctulata" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ" ; Times: 1
+	Query: "recordedby:mclean year &gt;= 1915 year &lt;= 1930" ; Times: 2
+	Query: "elf" ; Times: 5
+	Query: "stateprovince:&#34;montana&#34; recordedby:bowman" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "institutioncode:mvz &#34;himantopus mexicanus&#34;" ; Times: 2
+	Query: "bird eggs nebraska" ; Times: 2
+	Query: "12171" ; Times: 1
+	Query: "&#34;mary island&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "Agelaius phoeniceus Merced County egg" ; Times: 1
+	Query: "recordedby:mclean year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "&#34;crescent lake&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "genus:Casuarius" ; Times: 2
+	Query: "vulture" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "J W Harris" ; Times: 1
+	Query: "rajasthan" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco stateprovince:california institutioncode:MVZ" ; Times: 4
+	Query: "class:aves county:&#34;middlesex&#34; recordedby:giles year &gt;= 1900 year &lt;= 1925" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "county:&#34;willacy&#34;" ; Times: 1
+	Query: "locality:herron" ; Times: 1
+	Query: "Cochlearius cochlearius mappable:1" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "locality:black slough stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "genus:Loxia preparations:egg" ; Times: 2
+	Query: "Struthio camelus egg" ; Times: 1
+	Query: "Agelaius phoeniceus Modoc County egg" ; Times: 1
+	Query: "class:Aves catalognumber:11923 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "recordedby:mclean year &gt;= 1900 year &lt;= 1935" ; Times: 1
+	Query: "Agelaius phoeniceus Eddy County egg" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "Agelaius phoeniceus Contra Costa County egg" ; Times: 1
+	Query: "class:Aves catalognumber:14880 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "family:Tyrannidae institutioncode:MVZ" ; Times: 1
+	Query: "great horned owl" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Spelaeornis longicaudatus" ; Times: 2
+	Query: "tetrao urogallus" ; Times: 2
+	Query: "mvz AND gymnogyps AND california" ; Times: 3
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Agelaius phoeniceus egg Coos County" ; Times: 1
+	Query: "aves Gordon egg" ; Times: 2
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 3
+	Query: "ruffed grouse" ; Times: 3
+	Query: "class:Aves catalognumber:10738 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "willow flycatcher" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "Anhima cornuta mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:9325 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 2
+	Query: "Struthio camelus" ; Times: 1
+	Query: "Agelaius phoeniceus New Mexico egg" ; Times: 1
+	Query: "Ostrich" ; Times: 1
+	Query: "class:Aves catalognumber:14155 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;almaden&#34;" ; Times: 1
+	Query: "mississippi bird eggs" ; Times: 2
+	Query: "specificepithet:cardinalis hasmedia:1" ; Times: 1
+	Query: "class:Aves catalognumber:12956 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:10440 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 6
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "Orthotomus sri lanka" ; Times: 1
+	Query: "class:Aves catalognumber:7872 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "black brant" ; Times: 1
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Molothrus ater californicus" ; Times: 1
+	Query: "1936 alaska egg" ; Times: 1
+	Query: "parkesia" ; Times: 1
+	Query: "10653" ; Times: 1
+	Query: "aleutian tern" ; Times: 8
+	Query: "specificepithet:magnirostris genus:galerida" ; Times: 1
+	Query: "class:aves recordedby:giles year &gt;= 1900 year &lt;= 1925" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Centropus" ; Times: 1
+	Query: "Orthotomus Sri Lanka" ; Times: 1
+	Query: "dicaeum pectorale" ; Times: 2
+	Query: "specificepithet:nitens genus:phainopepla institutioncode:MVZ" ; Times: 2
+	Query: "emporia" ; Times: 1
+	Query: "class:Aves catalognumber:4731 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus institutioncode:MVZ" ; Times: 16
+	Query: "Numenius arquata" ; Times: 2
+	Query: "calidris egg alaska 1932" ; Times: 1
+	Query: "recordedby:mclean d" ; Times: 1
+	Query: "Agelaius phoeniceus San Bernardino egg" ; Times: 1
+	Query: "recordedby:carriger" ; Times: 1
+	Query: "class:Aves catalognumber:5476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "golden eagle" ; Times: 3
+	Query: "locality:black slough" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "fox sparrow nest" ; Times: 1
+	Query: "10313" ; Times: 2
+	Query: "egg alaska 1936" ; Times: 1
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "fratercula arctica" ; Times: 1
+	Query: "specificepithet:armillata genus:Fulica hasmedia:1" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "class:Aves catalognumber:3282 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Red-naped Sapsucker" ; Times: 2
+	Query: "recordedby:carpenter year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus stateprovince:california institutioncode:MVZ" ; Times: 2
+	Query: "class:Aves catalognumber:9348 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atricilla genus:Leucophaeus" ; Times: 1
+	Query: "locality:black sloughs stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "egg alaska brower" ; Times: 1
+	Query: "Columba preparations:Egg" ; Times: 1
+	Query: "class:aves recordedby:giles" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+	Query: "Manacus manacus mappable:1" ; Times: 2
+	Query: "family:Thraupidae order:Passeriformes hasmedia:1" ; Times: 2
+	Query: "specificepithet:cocoi genus:Ardea" ; Times: 2
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(-14.921271365112322,-70.5475995699594))&lt;100000" ; Times: 1
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "neophron percnopterus" ; Times: 1
+	Query: "recordedby:D. McLean" ; Times: 1
+	Query: "dicaeum geelvinkianum" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 2
+	Query: "specificepithet:mongolica genus:melanocorypha" ; Times: 1
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:7270 institutioncode:MVZ" ; Times: 1
+	Query: "Lethbridge egg" ; Times: 1
+	Query: "class:Aves catalognumber:3837 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cyanopica" ; Times: 1
+	Query: "Grass mountain" ; Times: 2
+	Query: "MVZ Holland" ; Times: 1
+	Query: "locality:cuyamaca county:&#34;san diego&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "&#34;R. I. Giles&#34;" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "agelaius mearnsi" ; Times: 3
+	Query: "Toxostoma lecontei" ; Times: 8
+	Query: "class:aves county:&#34;middlesex&#34; recordedby:giles" ; Times: 1
+	Query: "Dryobates scalaris cactophilus" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "&#34;almaden&#34; &#34;santa clara&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:10681 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1263 download events in this period)
+Total number of records downloaded: 840
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 12
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 24
+	Country: Peru ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-23 ; Times: 8
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 12
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-30 ; Times: 5
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-29 ; Times: 6
+	Date: 2019-04-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Centropus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Maryland" ; Times: 1
+	Query: "specificepithet:magnirostris genus:galerida" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "family:Tyrannidae institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Pennsylvania" ; Times: 2
+	Query: "pitta" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:fortipes genus:horornis" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "class:aves county:&#34;middlesex&#34; recordedby:giles" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Wyoming" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:New Mexico" ; Times: 1
+	Query: "specificepithet:mongolica genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Missouri" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Arizona" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Wisconsin" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "ruffed grouse" ; Times: 1
+	Query: "sphenisciformes" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Utah" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Minnesota" ; Times: 1
+	Query: "order:Falconiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "specificepithet:shelleyi genus:francolinus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Michigan" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+
+
+End of report.
