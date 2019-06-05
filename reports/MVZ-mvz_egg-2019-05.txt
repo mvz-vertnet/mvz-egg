@@ -1,0 +1,378 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 324
+Number of records retrieved in searches: 1359
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 25
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 49
+	Country: Unknown ; Times: 2
+	Country: Turkey ; Times: 3
+	Country: India ; Times: 3
+	Country: France ; Times: 4
+	Country: United States ; Times: 166
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 19
+	Country: Denmark ; Times: 4
+	Country: Belgium ; Times: 7
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 27
+	Date: 2019-05-31 ; Times: 9
+	Date: 2019-05-09 ; Times: 10
+	Date: 2019-05-08 ; Times: 13
+	Date: 2019-05-07 ; Times: 7
+	Date: 2019-05-06 ; Times: 7
+	Date: 2019-05-04 ; Times: 2
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-02 ; Times: 33
+	Date: 2019-05-01 ; Times: 8
+	Date: 2019-05-25 ; Times: 9
+	Date: 2019-05-24 ; Times: 15
+	Date: 2019-05-27 ; Times: 10
+	Date: 2019-05-26 ; Times: 9
+	Date: 2019-05-21 ; Times: 25
+	Date: 2019-05-20 ; Times: 7
+	Date: 2019-05-23 ; Times: 19
+	Date: 2019-05-22 ; Times: 21
+	Date: 2019-05-29 ; Times: 11
+	Date: 2019-05-28 ; Times: 17
+	Date: 2019-05-18 ; Times: 4
+	Date: 2019-05-19 ; Times: 9
+	Date: 2019-05-10 ; Times: 6
+	Date: 2019-05-11 ; Times: 5
+	Date: 2019-05-13 ; Times: 2
+	Date: 2019-05-14 ; Times: 6
+	Date: 2019-05-15 ; Times: 9
+	Date: 2019-05-16 ; Times: 16
+	Date: 2019-05-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Geothlypis trichas Merced County egg" ; Times: 1
+	Query: "heron vntype:specimen basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:psaltria genus:Spinus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:MVZ" ; Times: 1
+	Query: "Sporophila minuta vntype:specimen" ; Times: 1
+	Query: "Tetrao urogallus" ; Times: 9
+	Query: "Dryobates villosus hyloscopus" ; Times: 2
+	Query: "specificepithet:tolmiei genus:Geothlypis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 10
+	Query: "alberta bucephala egg" ; Times: 1
+	Query: "milwaukee" ; Times: 3
+	Query: "Canfield" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "wood duck" ; Times: 2
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "dryobates nuttallii" ; Times: 2
+	Query: "Corvus corone" ; Times: 1
+	Query: "macronectes giganteus" ; Times: 3
+	Query: "Motacilla alba year&lt;=1940" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Cyanistes caeruleus year&lt;=1900" ; Times: 1
+	Query: "vntype:specimen specificepithet:canus genus:picus" ; Times: 1
+	Query: "eudyptes chrysocome" ; Times: 1
+	Query: "vntype:specimen specificepithet:frontalis genus:synallaxis" ; Times: 1
+	Query: "dryobates villosus leucothorectis" ; Times: 1
+	Query: "hummingbird egg" ; Times: 2
+	Query: "specificepithet:celata genus:Oreothlypis stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "cormorant vntype:specimen hasmedia:1" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "SAGE GROUSE" ; Times: 1
+	Query: "Poecile atricapillus egg west virginia" ; Times: 1
+	Query: "aptenodytes patagonicus" ; Times: 1
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "Poecile atricapillus west virginia" ; Times: 1
+	Query: "Dryobates scalaris" ; Times: 10
+	Query: "specificepithet:colchicus genus:phasianus country:&#34;United States&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "aphelocoma immanis" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "&#34;T. C. Meitzen&#34;" ; Times: 1
+	Query: "spheniscus magellanicus" ; Times: 1
+	Query: "Dryobates scalaris cactophilus" ; Times: 2
+	Query: "family:Cardinalidae institutioncode:MVZ" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:crissalis genus:Melozone county:&#34;Alameda&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "Andaman aves" ; Times: 3
+	Query: "Streptopelia chinensis India" ; Times: 1
+	Query: "Dryobates villosus" ; Times: 2
+	Query: "vntype:specimen specificepithet:crissalis genus:Melozone county:&#34;Alameda&#34; stateprovince:&#34;California&#34; year &gt;= 1870 year &lt;= 1940 institutioncode:MVZ" ; Times: 1
+	Query: "Golden-fronted Woodpecker" ; Times: 1
+	Query: "Columba livia year &lt;=1940" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:Sayornis stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:MVZ" ; Times: 1
+	Query: "adusta" ; Times: 1
+	Query: "Toxostoma bendirei stateprovince:&#34;Nevada&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:crissalis genus:Melozone county:&#34;Alameda&#34; stateprovince:&#34;California&#34; year &gt;= 1870 year &lt;= 1920 institutioncode:MVZ" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 2
+	Query: "Pygoscelis adeliae" ; Times: 2
+	Query: "egg franklin bay" ; Times: 3
+	Query: "genus:Liocichla" ; Times: 1
+	Query: "vntype:specimen specificepithet:madagascariensis genus:porphyrio" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 4
+	Query: "spider" ; Times: 2
+	Query: "vntype:specimen genus:Agelaius stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:MVZ" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Coccyzus erythropthalmus" ; Times: 1
+	Query: "dryobates villosus monticola" ; Times: 1
+	Query: "Ptychoramphus AND Coronado" ; Times: 1
+	Query: "vntype:specimen genus:Turdus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Parkesia" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 6
+	Query: "specificepithet:celata genus:Oreothlypis stateprovince:&#34;British Columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Oceanodroma melania AND Island" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer county:&#34;Alameda&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "california gnatcatcher" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:batis" ; Times: 1
+	Query: "Yellow-billed cuckoo" ; Times: 6
+	Query: "mvz AND gymnogyps AND california" ; Times: 3
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 4
+	Query: "selasphorus calliope" ; Times: 1
+	Query: "specificepithet:auritus genus:Phalacrocorax year &gt;= 1941 year &lt;= 1945 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geothlypis tolmiei nevada" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 3
+	Query: "MVZ 13800" ; Times: 1
+	Query: "Colaptes chrysoides brunnescens" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 5
+	Query: "ruffed grouse" ; Times: 3
+	Query: "vntype:specimen specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "snow bunting" ; Times: 9
+	Query: "Dicrurus macrocercus" ; Times: 7
+	Query: "class:Aves catalognumber:10755 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 2
+	Query: "MVZ 8536" ; Times: 1
+	Query: "specificepithet:melanocephala genus:arenaria stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1881 year &lt;= 1890" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 3
+	Query: "catalognumber:8885 institutioncode:MVZ" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "class:Aves catalognumber:10760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Colaptes chrysoides chrysoides" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; Geranoaetus albicaudatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocephalus genus:porphyrio" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Haemorhous stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Haemorhous county:&#34;Contra Costa&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Leucosticte tephrocotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:colubris genus:Archilochus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "bank swallow" ; Times: 1
+	Query: "vntype:specimen genus:Thryomanes stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:MVZ" ; Times: 1
+	Query: "spixi" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 2
+	Query: "&#34;M. Canfield&#34;" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:griseus genus:Passer" ; Times: 3
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "dryobates villosus" ; Times: 2
+	Query: "Corvus corone year &lt;=1940" ; Times: 2
+	Query: "recordedby:ingraham year &gt;= 1889 year &lt;= 1889" ; Times: 1
+	Query: "genus:apteryx" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1888 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "vntype:specimen genus:Psaltriparus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:MVZ" ; Times: 1
+	Query: "egg pugnax" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "specificepithet:tolmiei genus:Geothlypis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 2
+	Query: "genus:monticola" ; Times: 1
+	Query: "M. Canfield" ; Times: 1
+	Query: "Laterallus jamaicensis jamaicensis mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:Regulus genus:Regulus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "geothlypis ralphi" ; Times: 1
+	Query: "Philetairus socius" ; Times: 1
+	Query: "RUFFED GROUSE" ; Times: 6
+	Query: "eudyptes chrysolophus" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Aphelocoma stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:MVZ" ; Times: 1
+	Query: "chinensis India" ; Times: 1
+	Query: "cardinalis seftoni" ; Times: 2
+	Query: "gilded flicker" ; Times: 2
+	Query: "vntype:specimen genus:Icterus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Haemorhous stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "Oceanodroma melania AND Coronados" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "specificepithet:lapponica class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:pacificus genus:Troglodytes stateprovince:&#34;british columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;british columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 2
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "vntype:specimen specificepithet:viridis genus:picus" ; Times: 1
+	Query: "Dryobates pubescens" ; Times: 1
+	Query: "May Canfield" ; Times: 1
+	Query: "specificepithet:phoenicea genus:Liocichla" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Haemorhous county:&#34;Alameda&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:9672 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leiothrix lutea year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Falco sparverius institutioncode:MVZ" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "cormorant vntype:specimen basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:MVZ" ; Times: 1
+	Query: "sage grouse" ; Times: 1
+	Query: "loon vntype:specimen basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "pygoscelis adeliae" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 1
+	Query: "specificepithet:regulus genus:regulus" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 4
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Sterna repressa" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Kenyon AND ISland" ; Times: 1
+	Query: "tetraogallus" ; Times: 1
+	Query: "specificepithet:melanocephala class:aves stateprovince:&#34;alaska&#34;" ; Times: 4
+	Query: "vntype:specimen genus:Pooecetes institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "ptarmigan" ; Times: 2
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Phainopepla nitens year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "May Canfield Aves" ; Times: 1
+	Query: "class:Aves catalognumber:9098 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "MVZ 221270" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Alberta&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:melanocephala class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza county:&#34;Alameda&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:Junco county:&#34;Alameda&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 5
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "batis" ; Times: 1
+	Query: "specificepithet:frontalis genus:synallaxis" ; Times: 1
+	Query: "Laterallus jamaicensis mappable:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus country:&#34;Mexico&#34; institutioncode:MVZ" ; Times: 1
+	Query: "class:Aves catalognumber:10761 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "catalognumber:8886 institutioncode:MVZ" ; Times: 1
+	Query: "Phasianus colchicus year &lt;= 1940" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 940 download events in this period)
+Total number of records downloaded: 1277
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: United States ; Times: 39
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Malawi ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 6
+	Date: 2019-05-31 ; Times: 6
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-01 ; Times: 3
+	Date: 2019-05-25 ; Times: 7
+	Date: 2019-05-24 ; Times: 3
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 4
+	Date: 2019-05-28 ; Times: 8
+	Date: 2019-05-19 ; Times: 5
+	Date: 2019-05-10 ; Times: 5
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-14 ; Times: 5
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:phoenicea genus:Liocichla" ; Times: 1
+	Query: "Toxostoma bendirei stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:colubris genus:Archilochus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Liocichla" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 2
+	Query: "Pygoscelis adeliae" ; Times: 2
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen specificepithet:madagascariensis genus:porphyrio" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "genus:Dicrurus continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:yncas" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:pertinax genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "vntype:specimen genus:pitta" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "Perisoreus infaustus" ; Times: 1
+	Query: "class:aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer county:&#34;Alameda&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Turnix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "vntype:specimen specificepithet:canus genus:picus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:crissalis genus:Melozone county:&#34;Alameda&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:celata genus:Oreothlypis stateprovince:&#34;British Columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen genus:Pooecetes institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen family:Cardinalidae institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Haemorhous county:&#34;Contra Costa&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Alberta&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Haemorhous county:&#34;Alameda&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "gilded flicker" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "selasphorus calliope" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1881 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:celata genus:Oreothlypis stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:tricolor genus:agelaius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:Junco county:&#34;Alameda&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Sterna repressa" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;british columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus country:&#34;Mexico&#34; institutioncode:MVZ" ; Times: 1
+	Query: "genus:apalis" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocephalus genus:porphyrio" ; Times: 1
+
+
+End of report.
