@@ -1,0 +1,288 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 309
+Number of records retrieved in searches: 3346
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 6
+	Country: Panama ; Times: 1
+	Country: France ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: Germany ; Times: 17
+	Country: Kuwait ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 244
+	Country: New Zealand ; Times: 2
+	Country: Myanmar ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 11
+	Date: 2019-09-17 ; Times: 8
+	Date: 2019-09-10 ; Times: 5
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-13 ; Times: 10
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-19 ; Times: 26
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 6
+	Date: 2019-09-08 ; Times: 8
+	Date: 2019-09-03 ; Times: 19
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 85
+	Date: 2019-09-05 ; Times: 11
+	Date: 2019-09-04 ; Times: 22
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-22 ; Times: 12
+	Date: 2019-09-25 ; Times: 7
+	Date: 2019-09-24 ; Times: 7
+	Date: 2019-09-27 ; Times: 6
+	Date: 2019-09-26 ; Times: 13
+	Date: 2019-09-29 ; Times: 20
+	Date: 2019-09-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Pittidae preparations:egg" ; Times: 2
+	Query: "genus:limosa haemastica" ; Times: 2
+	Query: "(Lagopus lagopus) AND (Lagopus mutus)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "micrus specificepithet:griseus genus:vireo" ; Times: 1
+	Query: "crete" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: "family:Cotingidae preparations:egg" ; Times: 1
+	Query: "county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:hyemalis genus:Junco stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:bonariensis genus:molothrus preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma californica Santa Clara County" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "Thryomanes bewickii leucophrys" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "hemignathus" ; Times: 1
+	Query: "Casuariidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:crissalis genus:Melozone stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "vireo griseus" ; Times: 1
+	Query: "Setophaga auduboni" ; Times: 3
+	Query: "Patagioenas flavirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:gymnogyps" ; Times: 2
+	Query: "genus:gymnogyps" ; Times: 1
+	Query: "Aphelocoma californica San Diego County" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Dryobates pubescens" ; Times: 1
+	Query: "Muscicapa cassini vntype:specimen" ; Times: 1
+	Query: "Aphelocoma californica Los Angeles County Pasadena" ; Times: 1
+	Query: "beluga" ; Times: 2
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 16
+	Query: "vntype:specimen class:Aves year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "Ictinia mississippiensis distance(location,geopoint(33.80220134903146,-98.21587224960564))&lt;100000" ; Times: 1
+	Query: "Agelaius tricolor vntype:specimen institutioncode:MVZ" ; Times: 1
+	Query: "black swift" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus mutus) AND (NOT buteo)" ; Times: 1
+	Query: "genus:Buteogallus NOT (skin)" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Corvus cornix" ; Times: 1
+	Query: "Lessonia rufa" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "anhimidae" ; Times: 1
+	Query: "Myophonus caeruleus" ; Times: 1
+	Query: "family:Furnariidae preparations:egg" ; Times: 2
+	Query: "specificepithet:californianus genus:gymnogyps" ; Times: 2
+	Query: "Aphelocoma californica Tulare County" ; Times: 1
+	Query: "bird myanmar" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia county:&#34;san francisco&#34; institutioncode:MVZ" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:Petrochelidon institutioncode:MVZ" ; Times: 3
+	Query: "10430" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "cypseloides niger" ; Times: 1
+	Query: "Aphelocoma californica Marin County" ; Times: 1
+	Query: "locality:San Benito Islands" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 2
+	Query: "crete greece" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:tigrina genus:Setophaga hastypestatus:1" ; Times: 1
+	Query: "Aphelocoma California. Lake County" ; Times: 1
+	Query: "phalarope" ; Times: 2
+	Query: "Aphelocoma Cochise County" ; Times: 1
+	Query: "stateprovince:&#34;nicobar&#34; country:&#34;india&#34;" ; Times: 3
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "Ceryle AND Cruz" ; Times: 1
+	Query: "Synallaxis erythrothorax" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "specificepithet:Major genus:Parus" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "genus:molothrus preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves country:&#34;kenya&#34;" ; Times: 1
+	Query: "Phoenicurus moussieri" ; Times: 6
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "Aptenodytes" ; Times: 1
+	Query: "Osmaston" ; Times: 1
+	Query: "specificepithet:sericocaudatus family:CAPRIMULGIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Haemorhous stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "(Monterey) year &gt;= 1800 year &lt;= 1930 institutioncode:MVZ" ; Times: 1
+	Query: "mvz 7898" ; Times: 1
+	Query: "selasphorus sasin month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "family:Sittidae preparations:egg" ; Times: 1
+	Query: "catalognumber:5551 institutioncode:mvz" ; Times: 2
+	Query: "upland sandpiper" ; Times: 2
+	Query: "Crotophaga institutioncode:MVZ" ; Times: 1
+	Query: "Setophaga striata" ; Times: 1
+	Query: "family:Ploceidae preparations:egg" ; Times: 1
+	Query: "Aphelocoma californica Contra Costa County" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia institutioncode:MVZ" ; Times: 2
+	Query: "Apteryx" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (Buteo)" ; Times: 1
+	Query: "Aphelocoma californica San Diego County Escondido" ; Times: 1
+	Query: "rhea" ; Times: 1
+	Query: "genus:Zosterops preparations:egg" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 25
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "specificepithet:leucophrys genus:Zonotrichia locality:San Francisco institutioncode:MVZ" ; Times: 2
+	Query: "Aphelocoma californica Ventura County" ; Times: 1
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:MVZ" ; Times: 2
+	Query: "arctic tern" ; Times: 1
+	Query: "vireo bellii san diego" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:beasley" ; Times: 3
+	Query: "family:Thraupidae preparations:egg" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Aphelocoma utah county" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "specificepithet:atricapillus class:aves year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "morse egg Carlsbad" ; Times: 1
+	Query: "family:Eurylaimidae preparations:egg" ; Times: 1
+	Query: "family:Thamnophilidae preparations:egg" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "Threskiornithinae" ; Times: 1
+	Query: "lagopus mutus vntype:specimen stateprovince:&#34;newfoundland&#34; AND (NOT buteo)" ; Times: 1
+	Query: "Prinia rufescens" ; Times: 2
+	Query: "genus:Buteogallus NOT (skin egg)" ; Times: 1
+	Query: "Aphelocoma californica Sonoma County" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "genus:limosa haemastica institutioncode" ; Times: 2
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "locality:Aptos county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Aphelocoma californica San Luis Obispo" ; Times: 1
+	Query: "moesta" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 16
+	Query: "alcyon AND Island AND California" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Pelecanus occidentalis californicus" ; Times: 1
+	Query: "mvz 7918" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 3
+	Query: "morse egg Carlsbad 1922" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 12
+	Query: "(Salinas) year &gt;= 1800 year &lt;= 1930 institutioncode:MVZ" ; Times: 1
+	Query: "Ficedula superciliaris" ; Times: 3
+	Query: "Casuarius casuarius" ; Times: 2
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 1
+	Query: "&#34;Aves&#34; stateprovince:&#34;California&#34; year &lt;= 1950 institutioncode:MVZ" ; Times: 2
+	Query: "myiozetetes granadensis" ; Times: 1
+	Query: "genus:limosa haemastica institutioncode: MVZ" ; Times: 1
+	Query: "nicobar" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 2
+	Query: "family:Rhinocryptidae preparations:egg" ; Times: 1
+	Query: "mourning dove" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina country:&#34;canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "alcyon AND Island" ; Times: 1
+	Query: "California condor" ; Times: 1
+	Query: "Apteryx australis" ; Times: 2
+	Query: "11963" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1073 download events in this period)
+Total number of records downloaded: 14062
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 21
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-18 ; Times: 7
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-19 ; Times: 19
+	Date: 2019-09-22 ; Times: 3
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "specificepithet:pyrrhonota genus:Petrochelidon institutioncode:MVZ" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "vntype:specimen specificepithet:hyemalis genus:Junco stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "chihuahua" ; Times: 2
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:crissalis genus:Melozone stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Haemorhous stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+
+
+End of report.
