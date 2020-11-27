@@ -1,0 +1,255 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 2008
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 8
+	Country: Mexico ; Times: 5
+	Country: Hong Kong ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: Finland ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 11
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Japan ; Times: 1
+	Country: Thailand ; Times: 3
+	Country: United States ; Times: 205
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 4
+	Date: 2020-03-31 ; Times: 12
+	Date: 2020-03-02 ; Times: 5
+	Date: 2020-03-18 ; Times: 10
+	Date: 2020-03-19 ; Times: 4
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 20
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-08 ; Times: 5
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-06 ; Times: 36
+	Date: 2020-03-27 ; Times: 9
+	Date: 2020-03-25 ; Times: 14
+	Date: 2020-03-24 ; Times: 4
+	Date: 2020-03-23 ; Times: 11
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-20 ; Times: 12
+	Date: 2020-03-05 ; Times: 16
+	Date: 2020-03-04 ; Times: 47
+	Date: 2020-03-07 ; Times: 2
+	Date: 2020-03-11 ; Times: 20
+	Date: 2020-03-03 ; Times: 23
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(221270)" ; Times: 1
+	Query: "copsychus malabaricus india" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "genus:nucifraga preparations:egg" ; Times: 2
+	Query: "monticola cinclorhynchus india" ; Times: 1
+	Query: "tufted puffin" ; Times: 1
+	Query: "acrocephalus arundinaceus china" ; Times: 1
+	Query: "Antigone canadensis" ; Times: 1
+	Query: "cerulea" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 6
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (petechia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "muscicapa albicaudata" ; Times: 3
+	Query: "vntype:specimen specificepithet:petechia genus:Setophaga month &gt;= 5 month &lt;= 8 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "213870" ; Times: 1
+	Query: "Antigone canadensis vntype:specimen" ; Times: 1
+	Query: "locality:bellota" ; Times: 2
+	Query: "zosterops japonicus" ; Times: 1
+	Query: "junco townsendi" ; Times: 1
+	Query: "vntype:specimen specificepithet:petechia genus:Setophaga year &gt;= 1900 month &gt;= 5 month &lt;= 8 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pellorneum tickelli" ; Times: 1
+	Query: "buteo lagopus sanctijohannis" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "locality:kenworthy year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "county:&#34;refugio&#34; stateprovince:&#34;texas&#34; recordedby:carroll" ; Times: 2
+	Query: "Owls" ; Times: 1
+	Query: "sterna dougallii" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila stateprovince:California institutioncode:MVZ" ; Times: 8
+	Query: "Lonchura punctulata" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "Trinidad and Tobago egg crotophaga" ; Times: 1
+	Query: "vntype:specimen genus:Passer institutioncode:MVZ" ; Times: 1
+	Query: "Glareola maldivarum" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (Setophaga petechia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:10642 institutioncode:MVZ" ; Times: 2
+	Query: "mimus polyglottos vntype:specimen hasmedia:1" ; Times: 1
+	Query: "Halcyon (Todiramphus) macleayii queensland" ; Times: 1
+	Query: "Phalaropus lobatus" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila stateprovince:California institutioncode:MVZ" ; Times: 6
+	Query: "Accipiter cooperi" ; Times: 1
+	Query: "(221248)" ; Times: 1
+	Query: "(2171) institutioncode:MVZ" ; Times: 2
+	Query: "Spatula clypeata" ; Times: 3
+	Query: "Laterallus jamaicensis" ; Times: 9
+	Query: "aves burton 1916" ; Times: 2
+	Query: "accipiter gentilis" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 2
+	Query: "locality:arroyo seco year &gt;= 1921 year &lt;= 1921" ; Times: 1
+	Query: "pomatorhinus austeni" ; Times: 1
+	Query: "vntype:specimen specificepithet:limicola genus:Rallus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "accipiter cooperi" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34; recordedby:carroll" ; Times: 2
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "campephilus egg" ; Times: 8
+	Query: "specificepithet:cannabina genus:Linaria class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 4
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "diomedea exulans kerguelen" ; Times: 1
+	Query: "turtur new zealand" ; Times: 1
+	Query: "black bellied plover" ; Times: 1
+	Query: "zosterops japonicus country:&#34;United States&#34;" ; Times: 1
+	Query: "willow flycatcher" ; Times: 3
+	Query: "parus major" ; Times: 1
+	Query: "genus:cinclus specificepithet:mexicanus" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 2
+	Query: "turdoides caudatus" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "specificepithet:affinis genus:caprimulgus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:californica genus:Callipepla stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Spotted Owl" ; Times: 1
+	Query: "Emberiza fucata" ; Times: 1
+	Query: "genus:mycteria class:aves hasmedia:1" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Setophaga petechia) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:petechia genus:Setophaga institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "albolarvatus California El Dorado County" ; Times: 1
+	Query: "catalognumber:12473 institutioncode:MVZ" ; Times: 2
+	Query: "Icterus gularis" ; Times: 2
+	Query: "specificepithet:kennicottii macfarlanei genus:Megascops" ; Times: 1
+	Query: "puffinus gulf" ; Times: 1
+	Query: "agelaius tricolor" ; Times: 2
+	Query: "delichon urbica" ; Times: 1
+	Query: "elanus leucurus" ; Times: 4
+	Query: "genus:Baeolophus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:Cheriway genus:Caracara" ; Times: 1
+	Query: "genus:Baeolophus stateprovince:&#34;Texas&#34; year &lt;= 1950" ; Times: 1
+	Query: "Trinidad and Tobago egg" ; Times: 1
+	Query: "rhea americana" ; Times: 1
+	Query: "genus:hydrobates" ; Times: 1
+	Query: "melozone albigula" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Pennsylvania&#34; (cerulea) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "diomedea exulans" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 1
+	Query: "genus:Stercorarius class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "bulweria bulweria" ; Times: 1
+	Query: "evening grosbeak" ; Times: 4
+	Query: "(224140)" ; Times: 1
+	Query: "genus:Laterallus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Jackson 1902 Uganda" ; Times: 1
+	Query: "colaptes chrysoides" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "motacilla citreola india" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 2
+	Query: "Buteo plagiatus" ; Times: 1
+	Query: "melozone aripolia" ; Times: 1
+	Query: "Todiramphus macleayii Queensland" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:petechia genus:Setophaga institutioncode:MVZ OR institutioncode:CAS OR institutioncode:LACM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "psaltriparus egg" ; Times: 2
+	Query: "659842" ; Times: 1
+	Query: "Pitangus sulphuratus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(221249)" ; Times: 2
+	Query: "specificepithet:lagopus genus:Lagopus country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "diomedea exulans south georgia" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; recordedby:carroll year &gt;= 1900 year &lt;= 1900 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "mockingbird" ; Times: 1
+	Query: "diomedea kerguelen" ; Times: 1
+	Query: "locality:jenny lind" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "vntype:specimen (cerulea) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "120271" ; Times: 1
+	Query: "559202" ; Times: 1
+	Query: "&#34;setophaga cerulea&#34; vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:petechia genus:Setophaga institutioncode:MVZ OR institutioncode:CAS OR institutioncode:LACM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "albolarvatus California San Bernardino" ; Times: 1
+	Query: "Aechmophorus vntype:specimen institutioncode:MVZ" ; Times: 2
+	Query: "locality:arroyo seco stateprovince:&#34;california&#34; year &gt;= 1921 year &lt;= 1921 institutioncode:MVZ" ; Times: 1
+	Query: "sanfordi" ; Times: 1
+	Query: "vntype:specimen specificepithet:petechia genus:Setophaga institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "TRING" ; Times: 1
+	Query: "picus viridis" ; Times: 1
+	Query: "vntype:specimen specificepithet:petechia genus:Setophaga institutioncode:MVZ OR institutioncode:CAS OR institutioncode:LACM basisofrecord:PreservedSpecimen month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "mimus vntype:specimen hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucurus genus:Elanus continent:america" ; Times: 2
+	Query: "pycnonotus melanicterus" ; Times: 1
+	Query: "vntype:specimen (Dendroica Setophaga coronata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Santa Cruz crotophaga" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella stateprovince:California institutioncode:MVZ" ; Times: 40
+	Query: "streptopelia orientalis india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 853 download events in this period)
+Total number of records downloaded: 423
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Canada ; Times: 1
+	Country: Guadeloupe ; Times: 3
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 3
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-06 ; Times: 5
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Passerina stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:petechia genus:Setophaga institutioncode:MVZ OR institutioncode:CAS OR institutioncode:LACM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "Pitangus sulphuratus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "zosterops japonicus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "genus:Passerina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Baeolophus stateprovince:&#34;Texas&#34; year &lt;= 1950" ; Times: 1
+	Query: "Icterus gularis" ; Times: 1
+	Query: "colaptes chrysoides" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "Antigone canadensis vntype:specimen" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:Passerina stateprovince:&#34;Arizona&#34;" ; Times: 2
+
+
+End of report.
