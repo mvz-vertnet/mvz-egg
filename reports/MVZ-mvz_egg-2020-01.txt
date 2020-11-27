@@ -1,0 +1,286 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 2245
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 133
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Myanmar ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: El Salvador ; Times: 2
+	Country: Unknown ; Times: 15
+	Country: India ; Times: 1
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 9
+	Country: Ecuador ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 8
+	Date: 2020-01-03 ; Times: 16
+	Date: 2020-01-02 ; Times: 7
+	Date: 2020-01-01 ; Times: 5
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 4
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-20 ; Times: 9
+	Date: 2020-01-09 ; Times: 12
+	Date: 2020-01-08 ; Times: 9
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 8
+	Date: 2020-01-27 ; Times: 7
+	Date: 2020-01-29 ; Times: 4
+	Date: 2020-01-28 ; Times: 17
+	Date: 2020-01-18 ; Times: 2
+	Date: 2020-01-19 ; Times: 7
+	Date: 2020-01-23 ; Times: 4
+	Date: 2020-01-14 ; Times: 4
+	Date: 2020-01-15 ; Times: 9
+	Date: 2020-01-30 ; Times: 13
+	Date: 2020-01-17 ; Times: 12
+	Date: 2020-01-10 ; Times: 5
+	Date: 2020-01-11 ; Times: 9
+	Date: 2020-01-12 ; Times: 5
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-31 ; Times: 6
+	Date: 2020-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "campephilus guatemalensis egg" ; Times: 1
+	Query: "country:&#34;india&#34; hasmedia:1" ; Times: 1
+	Query: "class:Aves stateprovince:Nevada" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella preparations:egg" ; Times: 1
+	Query: "hamburg" ; Times: 1
+	Query: "lake olomega" ; Times: 1
+	Query: "Aphelocoma year &gt;= 1940 year &lt;= 1960 institutioncode:MVZ" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:grinnell basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:Olomega" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Robertson" ; Times: 1
+	Query: "genus:Mimus stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "setophaga fusca" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Thryomanes AND Clemente Island AND 1927" ; Times: 1
+	Query: "Bubo scandiacus institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza county:&#34;Riverside&#34;" ; Times: 1
+	Query: "egg vntype:specimen (antigone) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:psaltriparus preparations:egg" ; Times: 5
+	Query: "class:aves locality:crater lake stateprovince:&#34;oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:brown basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;pierce&#34; preparations:egg" ; Times: 3
+	Query: "Burhinus oedicnemus" ; Times: 2
+	Query: "Shan State Myanmar" ; Times: 1
+	Query: "specificepithet:americana genus:grus" ; Times: 1
+	Query: "Campephilus guatemalensis egg" ; Times: 1
+	Query: "dryobates arizonae" ; Times: 1
+	Query: "recordedby:bancroft year &gt;= 1923 year &lt;= 1923" ; Times: 1
+	Query: "vntype:specimen county:&#34;refugio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "recordedby:Rice year &gt;= 1889 year &lt;= 1890" ; Times: 1
+	Query: "locality:Saybrook stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "class:Aves country:India" ; Times: 1
+	Query: "recordedby:bancroft" ; Times: 1
+	Query: "Harold Hansen" ; Times: 2
+	Query: "207097" ; Times: 1
+	Query: "horsfieldii" ; Times: 1
+	Query: "grus antigone" ; Times: 1
+	Query: "streptopelia turtur" ; Times: 3
+	Query: "Mallard Duck" ; Times: 2
+	Query: "locality:blue lake county:&#34;lake&#34;" ; Times: 1
+	Query: "MVZ Egg 4691" ; Times: 1
+	Query: "Elephant size" ; Times: 5
+	Query: "Euptilotis neoxenus" ; Times: 4
+	Query: "Thryomanes AND Clemente Island" ; Times: 2
+	Query: "13990" ; Times: 1
+	Query: "vireo bellii kansas" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:Fuller county:&#34;Riverside&#34;" ; Times: 4
+	Query: "genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:braly basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "nest bunting hasmedia:1" ; Times: 1
+	Query: "stateprovince:&#34;utah&#34; (olson)" ; Times: 1
+	Query: "Cistothorus palustris baja california" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "egg vntype:specimen (grus AND antigone) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rufescens genus:Poecile stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nest hummingbird hasmedia:1" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 2
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "Accipiter hastypestatus:1" ; Times: 3
+	Query: "stateprovince:&#34;quebec&#34; basisofrecord:PreservedSpecimen hastypestatus:1" ; Times: 2
+	Query: "519044" ; Times: 1
+	Query: "Sinosuthora webbiana" ; Times: 1
+	Query: "sea lion" ; Times: 1
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; preparations:Egg" ; Times: 2
+	Query: "Thryomanes AND Clemente Island AND 1919" ; Times: 1
+	Query: "Elanus AND Clemente" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:cantwell basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nest chondestes hasmedia:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:jewett basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Thryomanes bewickii san diego mvz" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:Griepentrog basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves locality:Palestine country:&#34;israel&#34;" ; Times: 1
+	Query: "nest flycatcher hasmedia:1" ; Times: 2
+	Query: "bushtit egg" ; Times: 3
+	Query: "specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Thryomanes AND San Clemente Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:peck basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Alameda County Cistothorus palustris egg" ; Times: 1
+	Query: "kenya jackson aves" ; Times: 1
+	Query: "class:aves stateprovince:&#34;hawaii&#34; hastypestatus:1" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "golden eagle" ; Times: 2
+	Query: "flint 1895 aves" ; Times: 1
+	Query: "california gull minnesota" ; Times: 1
+	Query: "Pomatorhinus vntype:specimen" ; Times: 1
+	Query: "&#34;J. C. Rice&#34;" ; Times: 1
+	Query: "Mycteria leucocephala" ; Times: 1
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "class:Aves country:&#34;israel&#34;" ; Times: 2
+	Query: "locality:Bolivar " ; Times: 1
+	Query: "locality:Tahquitz county:&#34;Riverside&#34; year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "specificepithet:corax genus:corvus preparations:egg year &gt;= 1" ; Times: 1
+	Query: "michigan Cistothorus palustris" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 3
+	Query: "short-eared owl" ; Times: 1
+	Query: "locality:Saybrook stateprovince:&#34;Connecticut&#34; recordedby:Clark" ; Times: 1
+	Query: "Phylloscopus vntype:specimen" ; Times: 1
+	Query: "specificepithet:californica genus:Aphelocoma stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "nest thrush hasmedia:1" ; Times: 1
+	Query: "specificepithet:leucoptera genus:pterodroma" ; Times: 3
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "genus:Caprimulgus country:&#34;philippines&#34;" ; Times: 2
+	Query: "MVZ 5820" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "659842" ; Times: 1
+	Query: "british columbia 1930 egg" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "nest tanager hasmedia:1" ; Times: 1
+	Query: "specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "ectopistes" ; Times: 2
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "Thryomanes bewickii san diego egg" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "genus:Psaltriparus stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:13314 institutioncode:MVZ" ; Times: 1
+	Query: "genus:leucosticte preparations:egg" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:rufescens genus:Poecile stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:Kenworthy county:&#34;Riverside&#34;" ; Times: 2
+	Query: "Pandion AND Nicolas Island" ; Times: 1
+	Query: "short eared owl" ; Times: 1
+	Query: "Pandion AND Clemente Island" ; Times: 1
+	Query: "passerculus sandwichensis beldingi" ; Times: 2
+	Query: "McHenry County Cistothorus palustris" ; Times: 2
+	Query: "apteryx" ; Times: 2
+	Query: "genus:Psaltriparus stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma year &gt;= 1920 year &lt;= 1960 institutioncode:MVZ" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "psaltriparus egg" ; Times: 1
+	Query: "100760" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:miller basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "locality:triangle island stateprovince:&#34;british columbia&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1584 download events in this period)
+Total number of records downloaded: 13845
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 4
+	Country: United States ; Times: 23
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-08 ; Times: 5
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "genus:Mimus stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Psaltriparus stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "egg vntype:specimen (antigone) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:psaltriparus preparations:egg" ; Times: 1
+	Query: "genus:leucosticte preparations:egg" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "county:&#34;pierce&#34; preparations:egg" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "&#34;Sturnus vulgaris&#34;" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Bates" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:californica genus:Aphelocoma stateprovince:&#34;California&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "class:Aves country:India" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Mycteria leucocephala" ; Times: 1
+
+
+End of report.
