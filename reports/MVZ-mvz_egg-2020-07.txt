@@ -1,0 +1,204 @@
+Report for Institution Code MVZ, Resource mvz_egg
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 631
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Ireland ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 14
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 4
+	Country: Austria ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 69
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 5
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 7
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-27 ; Times: 17
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-03 ; Times: 11
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-05 ; Times: 4
+	Date: 2020-07-07 ; Times: 13
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 13
+	Date: 2020-07-18 ; Times: 5
+	Date: 2020-07-28 ; Times: 10
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 7
+	Date: 2020-07-11 ; Times: 9
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "11825" ; Times: 1
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "california condor" ; Times: 1
+	Query: "accipiter gentilis" ; Times: 3
+	Query: "13364" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 10
+	Query: "hastypestatus:1 Crypturellus" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "sylvia melanocephala" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 1
+	Query: "buteogallus" ; Times: 1
+	Query: "larus Ichthyaetus" ; Times: 2
+	Query: "Cooper AND Island AND California" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "hastypestatus:1 Crypturellus tataupa" ; Times: 1
+	Query: "fratercula cirrhata" ; Times: 1
+	Query: "Greenland" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grizzly" ; Times: 5
+	Query: "sporophila minuta" ; Times: 1
+	Query: "Jasper County Missouri" ; Times: 1
+	Query: "catalognumber:12545 institutioncode:MVZ" ; Times: 1
+	Query: "Eggs specificepithet:virginianus genus:Colinus" ; Times: 1
+	Query: "Cooper AND 1861" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "MAR 8559 aves" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 2
+	Query: "Euphorbia" ; Times: 1
+	Query: "continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 2
+	Query: "chipping sparrow nest and eggs" ; Times: 1
+	Query: "5867 aves" ; Times: 1
+	Query: "10347" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "specificepithet:huttoni genus:Vireo county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "Colombia Cauca San Antonio" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "MAR 8559" ; Times: 1
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "Chroicocephalus philadelphia" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "11614" ; Times: 1
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "Mionectes assimilis" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 3
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:MVZ" ; Times: 1
+	Query: "california (eggs or nest )" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 2
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "wilsonia canadensis egg" ; Times: 2
+	Query: "Todiramphus chloris" ; Times: 1
+	Query: "genus:quelea" ; Times: 1
+	Query: "fratercula corniculata" ; Times: 1
+	Query: "fratercula arctica" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 4
+	Query: "Calamus calamus mappable:1" ; Times: 2
+	Query: "13459" ; Times: 1
+	Query: "12348" ; Times: 1
+	Query: "calliope Christopher institutioncode:MVZ" ; Times: 1
+	Query: "Pellorneum tickelli assam" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "calliope institutioncode:MVZ" ; Times: 2
+	Query: "umbagog" ; Times: 1
+	Query: "hastypestatus:1 cinnamomea" ; Times: 1
+	Query: "class:Aves country:&#34;Greenland&#34;" ; Times: 1
+	Query: "numenius arquata" ; Times: 1
+	Query: "chroicocephalus philadelphia" ; Times: 6
+	Query: "piranga flava" ; Times: 1
+	Query: "Cardellina canadensis egg" ; Times: 1
+	Query: "Glareola lactea" ; Times: 5
+	Query: "recordedby:Wolcott preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "genus:machetornis" ; Times: 1
+	Query: "Sterna repressa" ; Times: 3
+	Query: "Thalasseus acuflavidus" ; Times: 4
+	Query: "megaceryle alcyon" ; Times: 1
+	Query: "cackling goose" ; Times: 2
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "grus canadensis tabida" ; Times: 1
+	Query: "Cardellina egg" ; Times: 1
+	Query: "hastypestatus:1 inornatus" ; Times: 1
+	Query: "Sterna aurantia" ; Times: 1
+	Query: "copsychus" ; Times: 1
+	Query: "Spelaeornis longicaudatus" ; Times: 3
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 282
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 7
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cackling goose" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:MVZ" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+
+
+End of report.
